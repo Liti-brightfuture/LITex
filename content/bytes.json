@@ -1,0 +1,12 @@
+[
+  { "text": "Rust has been the most loved language in the Stack Overflow Survey for 8 years running.", "url": "https://survey.stackoverflow.co/" },
+  { "text": "Git was created by Linus Torvalds in just 10 days, back in 2005.", "url": "https://git-scm.com/about" },
+  { "text": "The first documented software bug was, literally, a moth trapped in a relay, in 1947.", "url": "https://en.wikipedia.org/wiki/Software_bug" },
+  { "text": "TypeScript was released by Microsoft in 2012 as a superset of JavaScript.", "url": "https://www.typescriptlang.org/" },
+  { "text": "HTTP/3 runs on QUIC over UDP instead of TCP, for faster connections.", "url": "https://http3-explained.haxx.se/" },
+  { "text": "Regular expressions trace back to the finite automata described by Stephen Kleene in the 1950s.", "url": "https://en.wikipedia.org/wiki/Regular_expression" },
+  { "text": "Docker popularized containers, but Linux cgroups have existed since 2006.", "url": "https://en.wikipedia.org/wiki/Cgroups" },
+  { "text": "Python was named after Monty Python, not the snake.", "url": "https://docs.python.org/3/faq/general.html" },
+  { "text": "An SSD has no moving parts, which is why it's far more shock-resistant than an HDD.", "url": "https://en.wikipedia.org/wiki/Solid-state_drive" },
+  { "text": "The first commit to the Linux kernel was made by Linus Torvalds in 1991.", "url": "https://github.com/torvalds/linux" }
+]

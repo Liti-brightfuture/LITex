@@ -1,0 +1,39 @@
+{
+  "name": "lit-bytes",
+  "displayName": "LIT Bytes",
+  "description": "Byte-sized tech news in your status bar while Claude Code thinks.",
+  "version": "0.0.1",
+  "publisher": "lit",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "litBytes.shareMyWeek",
+        "title": "LIT: Share my week"
+      },
+      {
+        "command": "litBytes.showStats",
+        "title": "LIT: Show my byte stats"
+      }
+    ]
+  },
+  "scripts": {
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "test": "node ./out/test/runTest.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/vscode": "^1.85.0",
+    "typescript": "^5.4.0"
+  }
+}
