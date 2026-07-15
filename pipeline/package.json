@@ -1,0 +1,14 @@
+{
+  "name": "lit-bytes-pipeline",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Ingestion job: fetches tech news, summarizes into bytes, publishes feed.json",
+  "type": "module",
+  "scripts": {
+    "ingest": "node src/ingest.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.4.0",
+    "firebase-admin": "^12.3.0"
+  }
+}

@@ -1,0 +1,12 @@
+.vscode/**
+.github/**
+pipeline/**
+worker/**
+src/**
+out/test/**
+node_modules/**
+tsconfig.json
+ARCHITECTURE.md
+feed.json
+**/*.map
+.gitignore

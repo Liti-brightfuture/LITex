@@ -2,3 +2,5 @@ node_modules/
 out/
 *.vsix
 .claude/settings.local.json
+pipeline/feed.json
+worker/.wrangler/

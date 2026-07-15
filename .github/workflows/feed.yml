@@ -1,0 +1,46 @@
+name: Update byte feed
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install pipeline dependencies
+        run: npm install
+        working-directory: pipeline
+
+      - name: Run ingestion
+        run: node src/ingest.mjs
+        working-directory: pipeline
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          FEED_OUT: feed.json
+
+      # The feed branch is a single-commit orphan branch holding only feed.json,
+      # force-pushed each run so history never grows.
+      - name: Publish feed.json to the feed branch
+        run: |
+          mkdir feed-publish
+          cp pipeline/feed.json feed-publish/
+          cd feed-publish
+          git init -b feed
+          git config user.name "lit-bytes-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add feed.json
+          git commit -m "Update feed $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push --force "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" feed
