@@ -4,14 +4,10 @@ import { SessionWatcher } from './sessionWatcher';
 import { ContentFeed } from './contentFeed';
 import { StatusBarController } from './statusBar';
 import { ByteRotator } from './byteRotator';
+import { IdleNotifier } from './notifier';
 import { Stats } from './stats';
 import { StatsSync } from './sync';
 import { shareMyWeek, copyBadgeUrl } from './recapCard';
-
-let watcher: SessionWatcher | undefined;
-let statusBar: StatusBarController | undefined;
-let rotator: ByteRotator | undefined;
-let feedRefreshTimer: NodeJS.Timeout | undefined;
 
 const FEED_REFRESH_INTERVAL_MS = 4 * 60 * 60 * 1000;
 const MILESTONES_KEY = 'litBytes.milestonesShown';
@@ -22,22 +18,30 @@ export function activate(context: vscode.ExtensionContext): void {
     context.globalState
   );
   void feed.refresh();
-  feedRefreshTimer = setInterval(() => void feed.refresh(), FEED_REFRESH_INTERVAL_MS);
+  const feedRefreshTimer = setInterval(() => void feed.refresh(), FEED_REFRESH_INTERVAL_MS);
 
   const stats = new Stats(context.globalState);
   const sync = new StatsSync(context.globalState, stats);
-  statusBar = new StatusBarController();
-  rotator = new ByteRotator(feed, statusBar, (byte) => {
+  const statusBar = new StatusBarController();
+  const notifier = new IdleNotifier();
+  const rotator = new ByteRotator(feed, statusBar, (byte) => {
     stats.recordByteSeen(byte.category);
     sync.maybeSync();
     void checkMilestones(context.globalState, stats, sync);
   });
-  watcher = new SessionWatcher();
+  const watcher = new SessionWatcher(getIdleThresholdMs);
 
-  watcher.onActivity(() => rotator?.noteActivity());
+  watcher.onActivity(() => rotator.noteActivity());
+  watcher.onSessionStart(() => notifier.clear());
+  watcher.onSessionIdle(() => notifier.notifyIdle());
   watcher.start();
 
   context.subscriptions.push(
+    new vscode.Disposable(() => clearInterval(feedRefreshTimer)),
+    watcher,
+    rotator,
+    statusBar,
+    notifier,
     vscode.commands.registerCommand('litBytes.shareMyWeek', () => shareMyWeek(stats, sync)),
     vscode.commands.registerCommand('litBytes.copyBadgeUrl', () => copyBadgeUrl(sync)),
     vscode.commands.registerCommand('litBytes.showStats', () => {
@@ -46,6 +50,15 @@ export function activate(context: vscode.ExtensionContext): void {
       );
     })
   );
+}
+
+function getIdleThresholdMs(): number {
+  const seconds = vscode.workspace
+    .getConfiguration('litBytes')
+    .get<number>('idleThresholdSeconds', 20);
+  // Transcript writes can legitimately pause 10-20s during a long generation;
+  // enforce a floor so users can't configure a false-positive machine.
+  return Math.max(10, seconds) * 1000;
 }
 
 /**
@@ -75,8 +88,5 @@ async function checkMilestones(
 }
 
 export function deactivate(): void {
-  if (feedRefreshTimer) clearInterval(feedRefreshTimer);
-  watcher?.dispose();
-  rotator?.dispose();
-  statusBar?.dispose();
+  // all cleanup is handled via context.subscriptions
 }

@@ -1,19 +1,45 @@
 {
   "name": "lit-bytes",
   "displayName": "LIT Bytes",
-  "description": "Byte-sized tech news in your status bar while Claude Code thinks.",
-  "version": "0.0.1",
+  "description": "Byte-sized tech news in your status bar while Claude Code thinks — and a ping the moment it's done.",
+  "version": "0.1.0",
   "publisher": "lit",
+  "license": "MIT",
+  "icon": "media/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Liti-brightfuture/LITex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Liti-brightfuture/LITex/issues"
+  },
+  "homepage": "https://github.com/Liti-brightfuture/LITex#readme",
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
-    "Other"
+    "Other",
+    "Visualization",
+    "Education"
   ],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "ai",
+    "agent",
+    "news",
+    "status bar",
+    "productivity",
+    "tech news"
+  ],
+  "galleryBanner": {
+    "color": "#1e1e2e",
+    "theme": "dark"
+  },
   "activationEvents": [
     "onStartupFinished"
   ],
-  "main": "./out/extension.js",
+  "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
@@ -32,6 +58,27 @@
     "configuration": {
       "title": "LIT Bytes",
       "properties": {
+        "litBytes.notifyOnIdle": {
+          "type": "string",
+          "enum": [
+            "off",
+            "statusBar",
+            "toast"
+          ],
+          "default": "statusBar",
+          "enumDescriptions": [
+            "No notification when Claude Code finishes.",
+            "Show a subtle \"Claude is done\" check in the status bar.",
+            "Show an information toast when Claude Code finishes."
+          ],
+          "description": "How to signal that Claude Code has finished working (gone idle)."
+        },
+        "litBytes.idleThresholdSeconds": {
+          "type": "number",
+          "default": 20,
+          "minimum": 10,
+          "description": "Seconds without session activity before Claude Code is considered done. Minimum 10 — transcript writes can pause 10-20s during long generations."
+        },
         "litBytes.enableCardSync": {
           "type": "boolean",
           "default": false,
@@ -48,11 +95,18 @@
   "scripts": {
     "compile": "tsc -p ./",
     "watch": "tsc -watch -p ./",
-    "test": "node ./out/test/runTest.js"
+    "build": "esbuild src/extension.ts --bundle --external:vscode --platform=node --format=cjs --minify --outfile=dist/extension.js",
+    "build:dev": "esbuild src/extension.ts --bundle --external:vscode --platform=node --format=cjs --sourcemap --outfile=dist/extension.js",
+    "vscode:prepublish": "npm run compile && npm run build",
+    "package": "vsce package",
+    "publish": "vsce publish && ovsx publish"
   },
   "devDependencies": {
     "@types/node": "^20.11.0",
     "@types/vscode": "^1.85.0",
+    "@vscode/vsce": "^3.9.2",
+    "esbuild": "^0.24.2",
+    "ovsx": "^0.10.12",
     "typescript": "^5.4.0"
   }
 }
