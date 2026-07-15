@@ -1,7 +1,7 @@
 import { ContentFeed, TechByte } from './contentFeed';
 import { StatusBarController } from './statusBar';
 
-const BYTE_DURATION_MS = 7_000;
+const BYTE_DURATION_MS = 5_000;
 // Transcript writes can pause 10-20s during a long generation; only after
 // this much silence do we consider Claude Code done working.
 const IDLE_THRESHOLD_MS = 20_000;

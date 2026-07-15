@@ -5,10 +5,10 @@ export class StatusBarController {
   private readonly item: vscode.StatusBarItem;
   private hideTimer: NodeJS.Timeout | undefined;
 
-  // 7s display + 1s grace: the rotator replaces the byte every 7s while
+  // 5s display + 1s grace: the rotator replaces the byte every 5s while
   // Claude Code works, resetting this timer; if no replacement comes, the
   // item hides itself (safety net for the idle case).
-  constructor(private readonly visibleDurationMs = 8000) {
+  constructor(private readonly visibleDurationMs = 6000) {
     this.item = vscode.window.createStatusBarItem(vscode.StatusBarAlignment.Left, 100);
   }
 
