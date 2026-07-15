@@ -1,8 +1,6 @@
 # LIT Bytes cards worker.
-# Before deploying: create the KV namespace and fill in its id:
-#   npx wrangler kv namespace create LIT_STATS
 kv_namespaces = [
-  { binding = "LIT_STATS", id = "REPLACE_AFTER_WRANGLER_LOGIN" }
+  { binding = "LIT_STATS", id = "30690d02e4a44938950c08724e84b066" }
 ]
 
 name = "lit-bytes-cards"
