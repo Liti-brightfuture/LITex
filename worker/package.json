@@ -1,0 +1,21 @@
+{
+  "name": "lit-bytes-cards",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Cloudflare Worker: live badge SVG + weekly recap PNG for LIT Bytes",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.0.0",
+    "@resvg/resvg-wasm": "^2.6.2",
+    "satori": "^0.10.14",
+    "yoga-wasm-web": "^0.3.3"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240718.0",
+    "typescript": "^5.4.0",
+    "wrangler": "^3.65.0"
+  }
+}
