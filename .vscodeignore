@@ -1,11 +1,13 @@
 .vscode/**
+.claude/**
 .github/**
 pipeline/**
 worker/**
 src/**
-out/test/**
+out/**
 node_modules/**
 tsconfig.json
+package-lock.json
 ARCHITECTURE.md
 feed.json
 **/*.map
