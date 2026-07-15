@@ -3,12 +3,14 @@ import * as path from 'path';
 import { SessionWatcher } from './sessionWatcher';
 import { ContentFeed } from './contentFeed';
 import { StatusBarController } from './statusBar';
+import { ByteRotator } from './byteRotator';
 import { Stats } from './stats';
 import { StatsSync } from './sync';
 import { shareMyWeek, copyBadgeUrl } from './recapCard';
 
 let watcher: SessionWatcher | undefined;
 let statusBar: StatusBarController | undefined;
+let rotator: ByteRotator | undefined;
 let feedRefreshTimer: NodeJS.Timeout | undefined;
 
 const FEED_REFRESH_INTERVAL_MS = 4 * 60 * 60 * 1000;
@@ -25,16 +27,14 @@ export function activate(context: vscode.ExtensionContext): void {
   const stats = new Stats(context.globalState);
   const sync = new StatsSync(context.globalState, stats);
   statusBar = new StatusBarController();
-  watcher = new SessionWatcher();
-
-  watcher.onActivity(() => {
-    const byte = feed.next();
-    if (!byte) return;
-    statusBar?.showByte(byte.text, byte.url);
+  rotator = new ByteRotator(feed, statusBar, (byte) => {
     stats.recordByteSeen(byte.category);
     sync.maybeSync();
     void checkMilestones(context.globalState, stats, sync);
   });
+  watcher = new SessionWatcher();
+
+  watcher.onActivity(() => rotator?.noteActivity());
   watcher.start();
 
   context.subscriptions.push(
@@ -77,5 +77,6 @@ async function checkMilestones(
 export function deactivate(): void {
   if (feedRefreshTimer) clearInterval(feedRefreshTimer);
   watcher?.dispose();
+  rotator?.dispose();
   statusBar?.dispose();
 }
