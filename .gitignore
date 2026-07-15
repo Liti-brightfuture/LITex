@@ -4,3 +4,4 @@ out/
 .claude/settings.local.json
 pipeline/feed.json
 worker/.wrangler/
+*firebase-adminsdk*.json
