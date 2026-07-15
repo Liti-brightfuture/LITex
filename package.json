@@ -23,8 +23,27 @@
       {
         "command": "litBytes.showStats",
         "title": "LIT: Show my byte stats"
+      },
+      {
+        "command": "litBytes.copyBadgeUrl",
+        "title": "LIT: Copy my badge URL"
       }
-    ]
+    ],
+    "configuration": {
+      "title": "LIT Bytes",
+      "properties": {
+        "litBytes.enableCardSync": {
+          "type": "boolean",
+          "default": false,
+          "description": "Opt in to syncing anonymous stats (a random ID and numeric counters only — never code, prompts, or AI responses) to power your live badge and weekly recap image."
+        },
+        "litBytes.cardServiceUrl": {
+          "type": "string",
+          "default": "",
+          "description": "Base URL of the deployed LIT Bytes cards worker (e.g. https://lit-bytes-cards.example.workers.dev). Leave empty to disable badge/recap features."
+        }
+      }
+    }
   },
   "scripts": {
     "compile": "tsc -p ./",
