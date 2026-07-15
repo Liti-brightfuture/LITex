@@ -131,8 +131,22 @@ async function summarize(item, apiKey) {
 
 // ---------- Main ----------
 
+/** Accepts the service account either as raw JSON or base64-encoded JSON. */
+function parseServiceAccount(raw) {
+  try {
+    return JSON.parse(raw);
+  } catch {
+    try {
+      return JSON.parse(Buffer.from(raw, 'base64').toString('utf8'));
+    } catch {
+      console.error('FIREBASE_SERVICE_ACCOUNT is neither valid JSON nor base64-encoded JSON.');
+      process.exit(1);
+    }
+  }
+}
+
 async function main() {
-  const serviceAccount = JSON.parse(requireEnv('FIREBASE_SERVICE_ACCOUNT'));
+  const serviceAccount = parseServiceAccount(requireEnv('FIREBASE_SERVICE_ACCOUNT'));
   const deepseekKey = requireEnv('DEEPSEEK_API_KEY');
 
   admin.initializeApp({ credential: admin.credential.cert(serviceAccount) });
