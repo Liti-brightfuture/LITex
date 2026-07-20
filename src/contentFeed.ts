@@ -43,6 +43,10 @@ export class ContentFeed {
     }
   }
 
+  getAll(): TechByte[] {
+    return [...this.bytes];
+  }
+
   next(): TechByte | undefined {
     if (this.bytes.length === 0) return undefined;
     const byte = this.bytes[this.cursor % this.bytes.length];
@@ -51,11 +55,25 @@ export class ContentFeed {
   }
 }
 
+const MAX_TEXT_LENGTH = 120;
+// eslint-disable-next-line no-control-regex
+const CONTROL_CHARS = /[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]/g;
+
+/**
+ * Strips control/escape characters from feed text before it can ever reach a
+ * terminal-rendered surface (the Claude Code spinner) — a compromised feed
+ * must not be able to inject ANSI/OSC escape sequences there.
+ */
+export function sanitizeText(text: string): string {
+  return text.replace(CONTROL_CHARS, '').trim().slice(0, MAX_TEXT_LENGTH);
+}
+
 function sanitize(parsed: unknown): TechByte[] | undefined {
   if (!Array.isArray(parsed)) return undefined;
-  const bytes = parsed.filter(
-    (b): b is TechByte => typeof b?.text === 'string' && b.text.length > 0
-  );
+  const bytes = parsed
+    .filter((b): b is TechByte => typeof b?.text === 'string' && b.text.length > 0)
+    .map((b) => ({ ...b, text: sanitizeText(b.text) }))
+    .filter((b) => b.text.length > 0);
   return bytes.length > 0 ? bytes : undefined;
 }
 

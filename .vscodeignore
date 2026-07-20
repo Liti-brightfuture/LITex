@@ -7,6 +7,7 @@ src/**
 out/**
 node_modules/**
 tsconfig.json
+tsconfig.test.json
 package-lock.json
 ARCHITECTURE.md
 feed.json

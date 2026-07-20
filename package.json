@@ -53,6 +53,14 @@
       {
         "command": "litBytes.copyBadgeUrl",
         "title": "LIT: Copy my badge URL"
+      },
+      {
+        "command": "litBytes.enableSpinnerBytes",
+        "title": "LIT: Enable spinner bytes (Claude Code)"
+      },
+      {
+        "command": "litBytes.disableSpinnerBytes",
+        "title": "LIT: Disable spinner bytes (restore Claude Code spinner)"
       }
     ],
     "configuration": {
@@ -99,7 +107,9 @@
     "build:dev": "esbuild src/extension.ts --bundle --external:vscode --platform=node --format=cjs --sourcemap --outfile=dist/extension.js",
     "vscode:prepublish": "npm run compile && npm run build",
     "package": "vsce package",
-    "publish": "vsce publish && ovsx publish"
+    "publish": "vsce publish && ovsx publish",
+    "pretest": "tsc -p tsconfig.test.json",
+    "test": "node --test \"out/test/**/*.test.js\""
   },
   "devDependencies": {
     "@types/node": "^20.11.0",

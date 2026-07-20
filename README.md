@@ -13,10 +13,13 @@ Claude Code runs for 30 seconds, 2 minutes, sometimes 10. That wait is dead time
 - 📰 **Always fresh** — content comes from a hosted feed (Hacker News, TechCrunch, dev.to, market news) updated every 4 hours by an automated pipeline. No extension updates needed. Offline? It falls back to the last cached feed, then to a bundled set of evergreen facts.
 - 🔥 **Streaks & stats** — bytes seen per day, per category, and your daily streak, stored locally. Milestones (7/30-day streaks, 100/500 bytes) get a one-time celebration.
 - 🏅 **Optional shareables** — an opt-in live badge for your GitHub README ("🔥 12-day streak · 340 bytes read") and a weekly "Wrapped"-style recap image.
+- 🌀 **Spinner bytes (opt-in)** — replace Claude Code's own "Thinking...", "Vibing..." spinner text with tech bytes, so you're reading even without glancing at the status bar. Your original spinner verbs are backed up and restored exactly on disable.
 
 ## How it works
 
 LIT Bytes watches file **modification timestamps** under `~/.claude/projects/` to know when Claude Code is active. It never reads your prompts, code, or Claude's responses — only that files changed. Detection is event-driven (VS Code's file watcher) with a lightweight adaptive fallback, and fully dormant if you don't use Claude Code.
+
+If you enable spinner bytes, LIT writes the `spinnerVerbs` key in your local `~/.claude/settings.json` — nothing else in that file is touched, and your original value (if any) is restored exactly when you disable the feature.
 
 ## Commands
 
@@ -25,6 +28,8 @@ LIT Bytes watches file **modification timestamps** under `~/.claude/projects/` t
 | `LIT: Show my byte stats` | Popup with your last-7-days byte count and current streak. |
 | `LIT: Share my week` | Builds a shareable recap — "Share on X", "Open recap image" (if sync is on), or "Copy text". |
 | `LIT: Copy my badge URL` | Copies README-ready markdown embedding your live badge. |
+| `LIT: Enable spinner bytes (Claude Code)` | Takes over Claude Code's `spinnerVerbs` setting to show tech bytes instead. |
+| `LIT: Disable spinner bytes (restore Claude Code spinner)` | Restores whatever spinner verbs you had before enabling. |
 
 ## Settings
 
