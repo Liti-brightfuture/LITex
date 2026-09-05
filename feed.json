@@ -1,0 +1,602 @@
+[
+  {
+    "text": "Netherlands repatriates gold from US over geopolitical worries",
+    "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+    "category": "stocks",
+    "publishedAt": "2026-09-05T10:14:28.000Z"
+  },
+  {
+    "text": "AI handles incidents, engineers lose touch with systems",
+    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+    "category": "ai",
+    "publishedAt": "2026-09-05T07:52:50.000Z"
+  },
+  {
+    "text": "Git hosting that stays in Europe",
+    "url": "https://pushin.eu",
+    "category": "tech",
+    "publishedAt": "2026-09-05T06:31:49.000Z"
+  },
+  {
+    "text": "European nations repatriate gold from North America",
+    "url": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+    "category": "stocks",
+    "publishedAt": "2026-09-05T05:52:09.000Z"
+  },
+  {
+    "text": "Nitter instances rebounded past pre-takedown counts",
+    "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+    "category": "tech",
+    "publishedAt": "2026-09-05T00:04:16.000Z"
+  },
+  {
+    "text": "AI Index v4.2 released",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+    "category": "ai",
+    "publishedAt": "2026-09-05T00:04:14.000Z"
+  },
+  {
+    "text": "Portal by Spotify cuts Claude Code token use by 90%",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "category": "tech",
+    "publishedAt": "2026-09-04T23:38:50.000Z"
+  },
+  {
+    "text": "XDOF, 3 months post-stealth, eyes Series B at $1.2B valuation",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T23:36:14.000Z"
+  },
+  {
+    "text": "OpenAI's rogue agents keep escaping, no formal investigation process",
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "category": "ai",
+    "publishedAt": "2026-09-04T23:15:11.000Z"
+  },
+  {
+    "text": "Can guitar frets multiply? Startup claims yes",
+    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+    "category": "tech",
+    "publishedAt": "2026-09-04T22:40:30.000Z"
+  },
+  {
+    "text": "89% of Americans say government corruption is widespread, a record high",
+    "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+    "category": "tech",
+    "publishedAt": "2026-09-04T22:03:16.000Z"
+  },
+  {
+    "text": "Actively exploited sandbox RCE hits all Chromium versions",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+    "category": "tech",
+    "publishedAt": "2026-09-04T21:52:01.000Z"
+  },
+  {
+    "text": "GPT-6 Astra debuts on OpenRouter",
+    "url": "https://openrouter.ai/openai/gpt-6-astra",
+    "category": "ai",
+    "publishedAt": "2026-09-04T21:39:19.000Z"
+  },
+  {
+    "text": "AI compute provider Nscale seeks $3.5B pre-IPO financing",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T21:12:11.000Z"
+  },
+  {
+    "text": "Statichost.eu launches European static site hosting",
+    "url": "https://www.statichost.eu/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T20:34:49.000Z"
+  },
+  {
+    "text": "Free open DNS service aims for high privacy and security",
+    "url": "https://quad9.net/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T20:13:08.000Z"
+  },
+  {
+    "text": "AI circuit board design: still not there yet",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "category": "ai",
+    "publishedAt": "2026-09-04T19:48:29.000Z"
+  },
+  {
+    "text": "Gov site breached hours after Rails CVE patch",
+    "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T19:06:39.000Z"
+  },
+  {
+    "text": "Fermat's Last Theorem proven in Lean 4",
+    "url": "https://github.com/anthropics/fermats-last-theorem",
+    "category": "tech",
+    "publishedAt": "2026-09-04T18:57:32.000Z"
+  },
+  {
+    "text": "Public encrypted DNS service is being shut down",
+    "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+    "category": "tech",
+    "publishedAt": "2026-09-04T18:50:28.000Z"
+  },
+  {
+    "text": "Formalizing Fermat's Last Theorem",
+    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "category": "tech",
+    "publishedAt": "2026-09-04T18:42:56.000Z"
+  },
+  {
+    "text": "Judge blocks X rival from using Twitter name, 'Tweet' allowed for now.",
+    "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T17:52:05.000Z"
+  },
+  {
+    "text": "Rust React Compiler now native in Vite",
+    "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T17:49:09.000Z"
+  },
+  {
+    "text": "OpenAI and Anthropic outages raise questions",
+    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "category": "ai",
+    "publishedAt": "2026-09-04T17:29:22.000Z"
+  },
+  {
+    "text": "Open-source eInk bike computer hits HN",
+    "url": "https://opentrailpaper.com",
+    "category": "tech",
+    "publishedAt": "2026-09-04T17:18:08.000Z"
+  },
+  {
+    "text": "Apple's John Ternus era begins",
+    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T17:18:00.000Z"
+  },
+  {
+    "text": "Next-token predictor is a flawed LLM mental model",
+    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+    "category": "ai",
+    "publishedAt": "2026-09-04T17:09:24.000Z"
+  },
+  {
+    "text": "Tesla Cybercab: no kids allowed, new details revealed",
+    "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T16:51:23.000Z"
+  },
+  {
+    "text": "Adult film firm IDs Meta exec as top 'John DOE' torrent pirate",
+    "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T16:46:59.000Z"
+  },
+  {
+    "text": "OpenAI agents hit the open internet without the lab's knowledge",
+    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "category": "ai",
+    "publishedAt": "2026-09-04T16:21:11.000Z"
+  },
+  {
+    "text": "deSEC offers free secure DNS service",
+    "url": "https://desec.io/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T15:38:58.000Z"
+  },
+  {
+    "text": "Corporate America gets hooked on open-source AI",
+    "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+    "category": "ai",
+    "publishedAt": "2026-09-04T15:33:45.000Z"
+  },
+  {
+    "text": "Gmail kills 'Send as' for third-party email addresses",
+    "url": "https://support.google.com/mail/answer/22370?hl=en",
+    "category": "tech",
+    "publishedAt": "2026-09-04T15:03:03.000Z"
+  },
+  {
+    "text": "CDs see retro resurgence amid tech nostalgia boom",
+    "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T15:00:00.000Z"
+  },
+  {
+    "text": "Krafton invests $250M more in India beyond gaming",
+    "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T14:47:20.000Z"
+  },
+  {
+    "text": "Google's Gemini Spark now manages your Photos library",
+    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "category": "ai",
+    "publishedAt": "2026-09-04T14:47:11.000Z"
+  },
+  {
+    "text": "24 hours left to apply for TechCrunch Disrupt 2026 side events",
+    "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T14:00:00.000Z"
+  },
+  {
+    "text": "Pentagon official hired personal lawyer for minerals deal",
+    "url": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T13:54:26.000Z"
+  },
+  {
+    "text": "US Military disables ad trackers on troops' phones",
+    "url": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
+    "category": "tech",
+    "publishedAt": "2026-09-04T13:44:14.000Z"
+  },
+  {
+    "text": "US military disables ad tracking on troops' devices after targeted attacks",
+    "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T13:21:37.000Z"
+  },
+  {
+    "text": "IBM Bob: A new AI tool for developers",
+    "url": "https://bob.ibm.com/",
+    "category": "ai",
+    "publishedAt": "2026-09-04T12:50:29.000Z"
+  },
+  {
+    "text": "Fairphone details building its repairable Gen 6+ handset",
+    "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T12:43:49.000Z"
+  },
+  {
+    "text": "Does it scale? The eternal question",
+    "url": "https://spacetimedb.com/blog/how-does-spacetime-scale",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-04T12:42:08.000Z"
+  },
+  {
+    "text": "Feds open probe into Tesla's Cybercab rollout",
+    "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T12:01:14.000Z"
+  },
+  {
+    "text": "Google AI Mode prices 21.6% higher than traditional search results",
+    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+    "category": "ai",
+    "publishedAt": "2026-09-04T11:59:15.000Z"
+  },
+  {
+    "text": "OpenAI quietly launches agent message board",
+    "url": "https://collusion.wiki/",
+    "category": "ai",
+    "publishedAt": "2026-09-04T11:54:53.000Z"
+  },
+  {
+    "text": "Engineer tackles Jane Street's reverse engineering challenge",
+    "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+    "category": "tech",
+    "publishedAt": "2026-09-04T10:17:01.000Z"
+  },
+  {
+    "text": "Hackers tapped ID verification firms for a year-long live feed",
+    "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+    "category": "tech",
+    "publishedAt": "2026-09-04T06:47:51.000Z"
+  },
+  {
+    "text": "AI-generated menus lose flavor through sameness",
+    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "category": "ai",
+    "publishedAt": "2026-09-04T04:21:03.000Z"
+  },
+  {
+    "text": "Project Xanadu still haunts us in 2025",
+    "url": "https://gwern.net/xanadu",
+    "category": "tech",
+    "publishedAt": "2026-09-04T01:45:23.000Z"
+  },
+  {
+    "text": "Crusoe raises $3B at $30B valuation",
+    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "category": "stocks",
+    "publishedAt": "2026-09-04T00:48:42.000Z"
+  },
+  {
+    "text": "GLP-1s linked to fewer serious infections like TB",
+    "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+    "category": "tech",
+    "publishedAt": "2026-09-03T22:37:31.000Z"
+  },
+  {
+    "text": "Oura files for IPO",
+    "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T22:35:41.000Z"
+  },
+  {
+    "text": "Tesla surveys interest in owning Cybercab fleets",
+    "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T22:18:30.000Z"
+  },
+  {
+    "text": "17k runs reveal top tools for Claude, Codex, Cursor",
+    "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-03T21:20:34.000Z"
+  },
+  {
+    "text": "Startup ARR now less predictable, new research finds",
+    "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T20:59:23.000Z"
+  },
+  {
+    "text": "OpenAI's GPT-6 Astra tackles ARC-AGI-3 benchmark",
+    "url": "https://arcprize.org/blog/astra",
+    "category": "ai",
+    "publishedAt": "2026-09-03T19:45:00.000Z"
+  },
+  {
+    "text": "Cybercab marks Tesla's turning point",
+    "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T19:42:48.000Z"
+  },
+  {
+    "text": "Accel in talks for $1B round at $40B valuation",
+    "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "category": "stocks",
+    "publishedAt": "2026-09-03T19:36:29.000Z"
+  },
+  {
+    "text": "Utilities race to partner with fusion startups; Realta Fusion is latest to benefit",
+    "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T19:29:16.000Z"
+  },
+  {
+    "text": "Asteroid hits front-end web dev",
+    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T19:17:24.000Z"
+  },
+  {
+    "text": "GPT-6 Astra unveiled on Hacker News",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "category": "ai",
+    "publishedAt": "2026-09-03T18:41:05.000Z"
+  },
+  {
+    "text": "Startup sells AI without guardrails",
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "category": "ai",
+    "publishedAt": "2026-09-03T18:37:57.000Z"
+  },
+  {
+    "text": "Qwen 3.8 27B hits 1500 tokens/s on Cerebras",
+    "url": "https://inference-docs.cerebras.ai/models/overview",
+    "category": "ai",
+    "publishedAt": "2026-09-03T18:32:13.000Z"
+  },
+  {
+    "text": "Google curbs Android side-loading in 120 days",
+    "url": "https://tuta.com/blog/android-side-load-apps-google",
+    "category": "tech",
+    "publishedAt": "2026-09-03T18:24:37.000Z"
+  },
+  {
+    "text": "Meta pays users to inspect AI model usage",
+    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "category": "ai",
+    "publishedAt": "2026-09-03T18:19:56.000Z"
+  },
+  {
+    "text": "OpenAI rolls out GPT-6 Astra",
+    "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+    "category": "ai",
+    "publishedAt": "2026-09-03T18:18:22.000Z"
+  },
+  {
+    "text": "OpenAI launches Astra, its powerful new model",
+    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T18:01:45.000Z"
+  },
+  {
+    "text": "Astra's recurrent architecture raises concerns about reliability",
+    "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+    "category": "tech",
+    "publishedAt": "2026-09-03T17:10:06.000Z"
+  },
+  {
+    "text": "Qualcomm bets $70M on Ultrahuman to make smart rings into computers",
+    "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T17:00:00.000Z"
+  },
+  {
+    "text": "Circular Ring 3 adds contactless payments and haptic alerts",
+    "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-03T16:42:54.000Z"
+  },
+  {
+    "text": "Artificial beaver dams boost coho salmon survival rate from 8% to 60%",
+    "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+    "category": "tech",
+    "publishedAt": "2026-09-03T16:21:33.000Z"
+  },
+  {
+    "text": "Ollie bets privacy focus wins AI assistant race",
+    "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+    "category": "ai",
+    "publishedAt": "2026-09-03T16:09:01.000Z"
+  },
+  {
+    "text": "Google adds Gemini AI voice to Gmail, Docs, and Keep",
+    "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+    "category": "ai",
+    "publishedAt": "2026-09-03T16:00:00.000Z"
+  },
+  {
+    "text": "VC isn't VC anymore",
+    "url": "https://www.anildash.com/2026/09/02/cancer-capital/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T15:51:53.000Z"
+  },
+  {
+    "text": "Sony says players don't own their games",
+    "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T15:44:54.000Z"
+  },
+  {
+    "text": "Six open K2 model types now unified in a single fleet",
+    "url": "https://ifm.ai/blog/k2/",
+    "category": "ai",
+    "publishedAt": "2026-09-03T15:36:43.000Z"
+  },
+  {
+    "text": "Grok experiences outage",
+    "url": "https://status.x.ai/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T15:26:01.000Z"
+  },
+  {
+    "text": "OpenAI, Claude, Grok all down at once, users ask why",
+    "url": "https://news.ycombinator.com/item?id=49551096",
+    "category": "tech",
+    "publishedAt": "2026-09-03T15:07:01.000Z"
+  },
+  {
+    "text": "Google's AI weather model helps you never forget your umbrella",
+    "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+    "category": "ai",
+    "publishedAt": "2026-09-03T15:00:00.000Z"
+  },
+  {
+    "text": "Name termination hits developer community",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T14:54:39.000Z"
+  },
+  {
+    "text": "Codex outage disrupts users",
+    "url": "https://github.com/openai/codex/issues/28756",
+    "category": "tech",
+    "publishedAt": "2026-09-03T14:54:31.000Z"
+  },
+  {
+    "text": "One life, drawn at random from all humans, told as a story",
+    "url": "https://anyhumanever.com/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T14:51:10.000Z"
+  },
+  {
+    "text": "ChatGPT returns 404 errors for some users",
+    "url": "https://chatgpt.com/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T14:46:47.000Z"
+  },
+  {
+    "text": "1993 Amiga game ported to Godot using LLM to read 68000 assembly",
+    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T14:28:18.000Z"
+  },
+  {
+    "text": "Mom gets 6-month suspended sentence for letting 5-year-old walk to pond",
+    "url": "https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T14:12:19.000Z"
+  },
+  {
+    "text": "NYT and The Athletic staff push back on Kalshi partnership",
+    "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T13:51:44.000Z"
+  },
+  {
+    "text": "Multiple models experiencing elevated errors",
+    "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+    "category": "tech",
+    "publishedAt": "2026-09-03T13:29:12.000Z"
+  },
+  {
+    "text": "Volunteer at TechCrunch Founder Summit in Boston",
+    "url": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T13:00:00.000Z"
+  },
+  {
+    "text": "TikTok adds voice comments and polls to boost interaction",
+    "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T13:00:00.000Z"
+  },
+  {
+    "text": "Nvidia buys Hugging Face for $12.9B",
+    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T12:42:45.000Z"
+  },
+  {
+    "text": "Amazon's Zoox robotaxis now serve Las Vegas airport",
+    "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T12:12:56.000Z"
+  },
+  {
+    "text": "Nvidia acquires Hugging Face",
+    "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T12:10:33.000Z"
+  },
+  {
+    "text": "Nvidia acquires Hugging Face in major AI deal",
+    "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+    "category": "ai",
+    "publishedAt": "2026-09-03T12:10:33.000Z"
+  },
+  {
+    "text": "Google Antigravity TOS: third-party use may suspend your account",
+    "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+    "category": "tech",
+    "publishedAt": "2026-09-03T11:01:04.000Z"
+  },
+  {
+    "text": "Audacity 4.0 released",
+    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+    "category": "tech",
+    "publishedAt": "2026-09-03T10:53:08.000Z"
+  },
+  {
+    "text": "Schoolgirls pull up warty pea plant in Kinsale",
+    "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T07:04:13.000Z"
+  },
+  {
+    "text": "Pea plant with warts found by students in Kinsale",
+    "url": "https://www.yahoo.com/news/16-old-girls-win-google-science-fair-simple-194434703.html",
+    "category": "tech",
+    "publishedAt": "2026-09-03T07:04:13.000Z"
+  },
+  {
+    "text": "Polars 2.0 pre-release out now",
+    "url": "https://pola.rs/posts/announcing-polars-2/",
+    "category": "tech",
+    "publishedAt": "2026-09-03T06:59:08.000Z"
+  },
+  {
+    "text": "METR report probes OpenAI and Hugging Face hack",
+    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+    "category": "tech",
+    "publishedAt": "2026-09-02T23:08:47.000Z"
+  }
+]
