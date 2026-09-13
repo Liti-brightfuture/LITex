@@ -1,0 +1,602 @@
+[
+  {
+    "text": "The Interim Computer Museum: a home for forgotten machines",
+    "url": "https://icm.museum/",
+    "category": "tech",
+    "publishedAt": "2026-09-13T02:43:57.000Z"
+  },
+  {
+    "text": "AI agents are lying, cheating, and coordinating — what could go wrong?",
+    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+    "category": "ai",
+    "publishedAt": "2026-09-13T01:22:31.000Z"
+  },
+  {
+    "text": "Everyone should slow down AI development except for me",
+    "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+    "category": "ai",
+    "publishedAt": "2026-09-13T00:30:44.000Z"
+  },
+  {
+    "text": "Automattic confirms Mullenweg returns as CEO after board ouster attempt",
+    "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+    "category": "tech",
+    "publishedAt": "2026-09-12T23:25:38.000Z"
+  },
+  {
+    "text": "Don't be the out of touch Kung Fu master",
+    "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-12T21:51:43.000Z"
+  },
+  {
+    "text": "Real-SWE benchmarks AI models on private enterprise codebases",
+    "url": "https://withspecific.com/benchmarks/real-swe",
+    "category": "ai",
+    "publishedAt": "2026-09-12T20:25:48.000Z"
+  },
+  {
+    "text": "Altman: OpenAI IPO in 2026 would be 'ill-advised'",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "category": "ai",
+    "publishedAt": "2026-09-12T20:19:16.000Z"
+  },
+  {
+    "text": "LG calls us fake news, but the screens don't lie",
+    "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+    "category": "tech",
+    "publishedAt": "2026-09-12T19:35:36.000Z"
+  },
+  {
+    "text": "Tesla to unveil second-gen Roadster on October 1, years after initial reveal",
+    "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+    "category": "tech",
+    "publishedAt": "2026-09-12T19:21:19.000Z"
+  },
+  {
+    "text": "Open letter to Dario: if you mean it, open the weights",
+    "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+    "category": "ai",
+    "publishedAt": "2026-09-12T19:15:32.000Z"
+  },
+  {
+    "text": "Linux Zoom client caught silently reading your entire X11 clipboard",
+    "url": "https://hachyderm.io/@simontatham/117201594980991062",
+    "category": "tech",
+    "publishedAt": "2026-09-12T18:58:57.000Z"
+  },
+  {
+    "text": "OpenStreetMap invites you to make your first edit — map the world, one change at a time",
+    "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-12T16:25:08.000Z"
+  },
+  {
+    "text": "Anthropic CEO plans to 'pace the frontier' of AI development",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "category": "ai",
+    "publishedAt": "2026-09-12T15:52:11.000Z"
+  },
+  {
+    "text": "Intel 8087's scale instruction hid clever microcode tricks",
+    "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-12T15:49:52.000Z"
+  },
+  {
+    "text": "LG hits back at claims its smart TVs are watching you",
+    "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+    "category": "tech",
+    "publishedAt": "2026-09-12T15:33:48.000Z"
+  },
+  {
+    "text": "Nvidia: the central bank of AI, minting compute as currency",
+    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "category": "stocks",
+    "publishedAt": "2026-09-12T15:08:27.000Z"
+  },
+  {
+    "text": "Build visualizer maps Bun's compile times for devs to see bottlenecks",
+    "url": "https://lalitm.com/post/buildprof/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-12T14:45:28.000Z"
+  },
+  {
+    "text": "Revolut confirms customer data breach via fake government requests",
+    "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+    "category": "tech",
+    "publishedAt": "2026-09-12T14:40:00.000Z"
+  },
+  {
+    "text": "Europe's minimalist tech approach quietly outperforms expectations",
+    "url": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
+    "category": "tech",
+    "publishedAt": "2026-09-12T14:17:28.000Z"
+  },
+  {
+    "text": "Waymo pulls over, calls cops on teens with ghost gun",
+    "url": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
+    "category": "tech",
+    "publishedAt": "2026-09-12T14:16:24.000Z"
+  },
+  {
+    "text": "We must pace the frontier",
+    "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "category": "tech",
+    "publishedAt": "2026-09-12T14:10:49.000Z"
+  },
+  {
+    "text": "Fuck it, make it anyway",
+    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-12T11:42:32.000Z"
+  },
+  {
+    "text": "iLand's AI agent spam named one of the worst email hustles",
+    "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+    "category": "ai",
+    "publishedAt": "2026-09-12T11:13:38.000Z"
+  },
+  {
+    "text": "7 Up documentary series ends after six decades following its stars' lives",
+    "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
+    "category": "tech",
+    "publishedAt": "2026-09-12T10:39:03.000Z"
+  },
+  {
+    "text": "Hacker News digs into reverse-engineering Apple's Neural Engine",
+    "url": "https://eiln.github.io/posts/ane.html",
+    "category": "ai",
+    "publishedAt": "2026-09-12T07:54:03.000Z"
+  },
+  {
+    "text": "New Usenet archive search engine rewinds decades of internet history",
+    "url": "https://www.usenet-rewind.com/",
+    "category": "tech",
+    "publishedAt": "2026-09-12T04:19:52.000Z"
+  },
+  {
+    "text": "Navier-Stokes proof claim sparks debate among mathematicians",
+    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+    "category": "tech",
+    "publishedAt": "2026-09-12T04:09:43.000Z"
+  },
+  {
+    "text": "Google cracks down on scrapers with new anti-scraping update",
+    "url": "https://www.autom.dev/blog/google-search-goto-links",
+    "category": "tech",
+    "publishedAt": "2026-09-12T03:14:20.000Z"
+  },
+  {
+    "text": "Pandas Should Go Extinct: a spicy take on Python's data library",
+    "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-12T02:42:08.000Z"
+  },
+  {
+    "text": "Google accused of using open source Artemis/Minitap code without credit",
+    "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-12T02:39:39.000Z"
+  },
+  {
+    "text": "How to buy a good car for $1000",
+    "url": "https://abio.substack.com/p/how-poor-people-buy-cars",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-12T01:37:06.000Z"
+  },
+  {
+    "text": "Starlink signal leakage threatens radio astronomy's most critical frequencies",
+    "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+    "category": "tech",
+    "publishedAt": "2026-09-12T00:40:32.000Z"
+  },
+  {
+    "text": "OpenAI agents carried out an undisclosed attack on RubyGems",
+    "url": "https://www.rubyhack.ai/",
+    "category": "ai",
+    "publishedAt": "2026-09-11T23:17:42.000Z"
+  },
+  {
+    "text": "Mecka AI nears $500M valuation in Sequoia-led round, fueling robot training data race",
+    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "category": "ai",
+    "publishedAt": "2026-09-11T22:58:17.000Z"
+  },
+  {
+    "text": "Remember Project Blinkenlights, the building turned into a giant playable screen",
+    "url": "https://blinkenlights.de/en/",
+    "category": "tech",
+    "publishedAt": "2026-09-11T22:15:00.000Z"
+  },
+  {
+    "text": "AI researchers debate how close we are to recursive self-improvement",
+    "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+    "category": "ai",
+    "publishedAt": "2026-09-11T21:35:29.000Z"
+  },
+  {
+    "text": "Khosla Ventures opens first office outside Sand Hill Road, expanding to NYC this fall",
+    "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+    "category": "tech",
+    "publishedAt": "2026-09-11T21:19:05.000Z"
+  },
+  {
+    "text": "Android NAT-T keepalive offload can bypass VPN lockdown, researchers find",
+    "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+    "category": "tech",
+    "publishedAt": "2026-09-11T21:16:48.000Z"
+  },
+  {
+    "text": "New Android flaw can leak your traffic data, no fix yet",
+    "url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+    "category": "tech",
+    "publishedAt": "2026-09-11T21:16:48.000Z"
+  },
+  {
+    "text": "YC's Garry Tan: US open-weight AI labs should distill frontier models too",
+    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "category": "ai",
+    "publishedAt": "2026-09-11T20:59:47.000Z"
+  },
+  {
+    "text": "OpenAI's feud with mathematicians keeps escalating",
+    "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "category": "ai",
+    "publishedAt": "2026-09-11T20:57:36.000Z"
+  },
+  {
+    "text": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+    "category": "tech",
+    "publishedAt": "2026-09-11T20:33:18.000Z"
+  },
+  {
+    "text": "TechCrunch Disrupt 2026 side events: last call to sign up now",
+    "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+    "category": "tech",
+    "publishedAt": "2026-09-11T20:30:17.000Z"
+  },
+  {
+    "text": "Moonshot AI (Kimi-maker) targets $2B annual revenue.",
+    "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+    "category": "ai",
+    "publishedAt": "2026-09-11T19:35:54.000Z"
+  },
+  {
+    "text": "Roblox adds AI game-building tools and lets you play creations outside Roblox",
+    "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+    "category": "tech",
+    "publishedAt": "2026-09-11T19:00:00.000Z"
+  },
+  {
+    "text": "Central Eurasia names 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, LOOQ",
+    "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+    "category": "tech",
+    "publishedAt": "2026-09-11T18:58:01.000Z"
+  },
+  {
+    "text": "GrapheneOS launches rewritten Messages app with privacy focus",
+    "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+    "category": "tech",
+    "publishedAt": "2026-09-11T18:50:36.000Z"
+  },
+  {
+    "text": "CIA unlocks declassified President's Daily Briefs for 9/11 anniversary",
+    "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
+    "category": "tech",
+    "publishedAt": "2026-09-11T18:30:07.000Z"
+  },
+  {
+    "text": "Google app ads: 60% of installs from a $220 campaign were robots",
+    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "category": "tech",
+    "publishedAt": "2026-09-11T18:24:55.000Z"
+  },
+  {
+    "text": "Litelm: LiteLLM without the bloat",
+    "url": "https://github.com/kennethwolters/litelm",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-11T18:10:20.000Z"
+  },
+  {
+    "text": "EPA may scrap public review rules for data center pollution",
+    "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+    "category": "tech",
+    "publishedAt": "2026-09-11T18:05:21.000Z"
+  },
+  {
+    "text": "AI in math risks misalignment, warns new research",
+    "url": "https://mathandai.org/",
+    "category": "ai",
+    "publishedAt": "2026-09-11T17:45:12.000Z"
+  },
+  {
+    "text": "Room 641A: the secret NSA wiretap room that launched a decade of surveillance debate",
+    "url": "https://en.wikipedia.org/wiki/Room_641A",
+    "category": "tech",
+    "publishedAt": "2026-09-11T17:45:03.000Z"
+  },
+  {
+    "text": "Snap: a friendly programming language for kids and adults to study CS",
+    "url": "https://snap.berkeley.edu/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-11T17:36:11.000Z"
+  },
+  {
+    "text": "AI misses the mark in mathematics, raising misalignment concerns",
+    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+    "category": "ai",
+    "publishedAt": "2026-09-11T17:30:26.000Z"
+  },
+  {
+    "text": "Ancient Andean civilization may have been built on mind-altering drugs, study finds",
+    "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+    "category": "tech",
+    "publishedAt": "2026-09-11T17:25:23.000Z"
+  },
+  {
+    "text": "AI can't fix everything—sometimes you just need to feel sad.",
+    "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+    "category": "ai",
+    "publishedAt": "2026-09-11T16:50:51.000Z"
+  },
+  {
+    "text": "Nscale taps ex-OpenAI exec Fidji Simo for board as IPO looms",
+    "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "category": "tech",
+    "publishedAt": "2026-09-11T16:46:25.000Z"
+  },
+  {
+    "text": "Show HN: Hacker News, Without AI",
+    "url": "https://www.unslop.news/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-11T16:08:50.000Z"
+  },
+  {
+    "text": "Global Glacier Extinction Explorer maps the world's vanishing ice",
+    "url": "https://glacierextinction.com",
+    "category": "tech",
+    "publishedAt": "2026-09-11T15:58:06.000Z"
+  },
+  {
+    "text": "Hacker News now deprioritizes AI-generated content",
+    "url": "https://sprinklz.io/public/pdwt4dve5uai",
+    "category": "tech",
+    "publishedAt": "2026-09-11T15:52:49.000Z"
+  },
+  {
+    "text": "Rune language goes open source",
+    "url": "https://rune.build/blog/rune-is-now-open-source",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-11T15:31:47.000Z"
+  },
+  {
+    "text": "Mullenweg back in control at Automattic after CEO ouster, tells staff in Slack",
+    "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+    "category": "tech",
+    "publishedAt": "2026-09-11T15:19:00.000Z"
+  },
+  {
+    "text": "Hacker News without AI: a quiet feed for human-curated tech links",
+    "url": "https://hcker.news/?ai=exclude",
+    "category": "tech",
+    "publishedAt": "2026-09-11T15:01:19.000Z"
+  },
+  {
+    "text": "HuggingFace adds security.txt to disclose vulnerabilities responsibly",
+    "url": "https://huggingface.co/security.txt",
+    "category": "tech",
+    "publishedAt": "2026-09-11T14:38:13.000Z"
+  },
+  {
+    "text": "If coding is solved, what now? Measuring the sloppiness of code",
+    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-11T13:42:28.000Z"
+  },
+  {
+    "text": "Houthis seize key island on global shipping route, raising trade risk",
+    "url": "https://www.bbc.com/news/live/cmd683p01eljt",
+    "category": "tech",
+    "publishedAt": "2026-09-11T13:41:38.000Z"
+  },
+  {
+    "text": "Diesel tops $6 a gallon in US for the first time",
+    "url": "https://www.cbsnews.com/news/rising-diesel-prices-consumer-impact/",
+    "category": "stocks",
+    "publishedAt": "2026-09-11T13:35:30.000Z"
+  },
+  {
+    "text": "Trezor email breach exposes thousands of crypto owners to scams",
+    "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+    "category": "tech",
+    "publishedAt": "2026-09-11T13:32:54.000Z"
+  },
+  {
+    "text": "HN asks: can we limit the AI news flood, please?",
+    "url": "https://news.ycombinator.com/item?id=49657850",
+    "category": "ai",
+    "publishedAt": "2026-09-11T13:11:04.000Z"
+  },
+  {
+    "text": "AI is quietly making research less collaborative, the Waymo effect",
+    "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+    "category": "ai",
+    "publishedAt": "2026-09-11T11:17:50.000Z"
+  },
+  {
+    "text": "RTK claims token savings, our cost benchmarks say otherwise",
+    "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+    "category": "ai",
+    "publishedAt": "2026-09-11T11:15:13.000Z"
+  },
+  {
+    "text": "Anthropic blocks minors from using Claude",
+    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+    "category": "ai",
+    "publishedAt": "2026-09-11T10:48:00.000Z"
+  },
+  {
+    "text": "Cherenkov radiation: when particles break light's speed limit in water",
+    "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+    "category": "tech",
+    "publishedAt": "2026-09-11T08:42:04.000Z"
+  },
+  {
+    "text": "Neijuan: China's overwork culture goes global, and tech workers can't escape it",
+    "url": "https://en.wikipedia.org/wiki/Neijuan",
+    "category": "tech",
+    "publishedAt": "2026-09-11T08:26:56.000Z"
+  },
+  {
+    "text": "Astra for Coding: Why Are We Doing This Again?",
+    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-11T06:23:06.000Z"
+  },
+  {
+    "text": "New study links exercise intensity to better cardiometabolic health",
+    "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+    "category": "tech",
+    "publishedAt": "2026-09-11T03:48:10.000Z"
+  },
+  {
+    "text": "Mexican student builds acoustic fire extinguisher that puts out fires in seconds",
+    "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+    "category": "tech",
+    "publishedAt": "2026-09-11T01:00:56.000Z"
+  },
+  {
+    "text": "Google to buy half the power from a Finnish nuclear plant",
+    "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+    "category": "tech",
+    "publishedAt": "2026-09-11T00:42:41.000Z"
+  },
+  {
+    "text": "YuE2 brings symbolic planning to frontier music generation",
+    "url": "https://map-yue2.github.io/",
+    "category": "ai",
+    "publishedAt": "2026-09-11T00:33:26.000Z"
+  },
+  {
+    "text": "Thelio Mira AI workstation packs 192 GB GPU memory for Linux",
+    "url": "https://system76.com/workstations/thelio-mira-ai",
+    "category": "ai",
+    "publishedAt": "2026-09-10T23:10:06.000Z"
+  },
+  {
+    "text": "Nine coding harnesses vs. your laptop: who wins the daily grind?",
+    "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-10T22:54:01.000Z"
+  },
+  {
+    "text": "VCs are buying into pro sports teams now, not just startups",
+    "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+    "category": "stocks",
+    "publishedAt": "2026-09-10T22:30:00.000Z"
+  },
+  {
+    "text": "Jensen Huang: Nvidia set to grow a stunning 70% next year",
+    "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "category": "tech",
+    "publishedAt": "2026-09-10T21:51:59.000Z"
+  },
+  {
+    "text": "Mark Wahlberg joins TechCrunch Disrupt 2026 to talk about your work, not his",
+    "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "category": "tech",
+    "publishedAt": "2026-09-10T21:35:00.000Z"
+  },
+  {
+    "text": "NTSB shares update on B-767 runway excursion accident in Miami",
+    "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+    "category": "tech",
+    "publishedAt": "2026-09-10T21:30:55.000Z"
+  },
+  {
+    "text": "OpenAI drops Navier-Stokes result with a full Lean 4 formal proof",
+    "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+    "category": "ai",
+    "publishedAt": "2026-09-10T21:22:59.000Z"
+  },
+  {
+    "text": "OpenAI pauses Pro subscriptions as Astra demand surges",
+    "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "category": "ai",
+    "publishedAt": "2026-09-10T20:59:51.000Z"
+  },
+  {
+    "text": "Anthropic exposes distillation campaigns by Alibaba, Moonshot AI, DeepSeek",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "category": "ai",
+    "publishedAt": "2026-09-10T20:57:30.000Z"
+  },
+  {
+    "text": "Furo's founders left Silicon Valley and it's paying off",
+    "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
+    "category": "tech",
+    "publishedAt": "2026-09-10T20:48:00.000Z"
+  },
+  {
+    "text": "Meta's AI agent Muse climbs to No. 2 app in the US",
+    "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "category": "ai",
+    "publishedAt": "2026-09-10T19:50:04.000Z"
+  },
+  {
+    "text": "Open source Proof of Capture uses steganography to verify Apple-style image authenticity",
+    "url": "https://merybenavente.me/blog/proof-of-capture",
+    "category": "tech",
+    "publishedAt": "2026-09-10T19:44:15.000Z"
+  },
+  {
+    "text": "OpenAI launches Agents API, letting devs build autonomous AI workers",
+    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "category": "ai",
+    "publishedAt": "2026-09-10T19:43:22.000Z"
+  },
+  {
+    "text": "Untrusted sites can freeze your Mac via Deathray exploit",
+    "url": "https://auberon.xyz/blog/posts/deathray/",
+    "category": "tech",
+    "publishedAt": "2026-09-10T19:34:20.000Z"
+  },
+  {
+    "text": "Creativity is the new moat in tech",
+    "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+    "category": "tech",
+    "publishedAt": "2026-09-10T19:03:34.000Z"
+  },
+  {
+    "text": "Proxima Fusion raises €140M to secure a fusion ingredient dominated by Asian suppliers",
+    "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
+    "category": "tech",
+    "publishedAt": "2026-09-10T18:38:00.000Z"
+  },
+  {
+    "text": "Amazon lets you shop what you see on Prime Video",
+    "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+    "category": "tech",
+    "publishedAt": "2026-09-10T18:10:36.000Z"
+  },
+  {
+    "text": "Rogue AI agents hate CAPTCHAs too, Anthropic reveals",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "category": "ai",
+    "publishedAt": "2026-09-10T17:54:44.000Z"
+  },
+  {
+    "text": "Pocket FM doubles revenue to $500M as AI powers 93% of its audio content",
+    "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "category": "ai",
+    "publishedAt": "2026-09-10T17:45:00.000Z"
+  },
+  {
+    "text": "Anthropic details detecting and countering AI misuse, September 2026",
+    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "category": "ai",
+    "publishedAt": "2026-09-10T17:23:42.000Z"
+  }
+]
