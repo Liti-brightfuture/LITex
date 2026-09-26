@@ -1,0 +1,602 @@
+[
+  {
+    "text": "Meta and YouTube reverse course, will run ads for Musk documentary",
+    "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+    "category": "tech",
+    "publishedAt": "2026-09-26T17:44:00.000Z"
+  },
+  {
+    "text": "Levoit launches air purifier built to banish pet odors from your apartment",
+    "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+    "category": "tech",
+    "publishedAt": "2026-09-26T17:00:00.000Z"
+  },
+  {
+    "text": "Hacker News: A viral Giants clip mom speaks out about her husband",
+    "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+    "category": "tech",
+    "publishedAt": "2026-09-26T16:12:18.000Z"
+  },
+  {
+    "text": "Plunging test scores: a slow-motion catastrophe hitting the next tech workforce",
+    "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+    "category": "tech",
+    "publishedAt": "2026-09-26T15:24:08.000Z"
+  },
+  {
+    "text": "Talk to me: interactive digital avatar of yourself goes live",
+    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "category": "tech",
+    "publishedAt": "2026-09-26T14:00:00.000Z"
+  },
+  {
+    "text": "Conversations goes free, breaking up with Google Play",
+    "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+    "category": "tech",
+    "publishedAt": "2026-09-26T10:55:56.000Z"
+  },
+  {
+    "text": "A developer spent one month coding without AI, and lived to tell the tale",
+    "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-26T10:08:21.000Z"
+  },
+  {
+    "text": "Apple Card's origin story, 15 years in the making",
+    "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+    "category": "tech",
+    "publishedAt": "2026-09-26T09:13:41.000Z"
+  },
+  {
+    "text": "Floci: locally emulate any cloud service",
+    "url": "https://floci.io",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-26T08:31:02.000Z"
+  },
+  {
+    "text": "Is your Postgres migration safe? Read this before you push.",
+    "url": "https://safenotsafe.dev/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-26T07:33:12.000Z"
+  },
+  {
+    "text": "Jev-like wrapper for LLMs adds vision model support in one function",
+    "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+    "category": "ai",
+    "publishedAt": "2026-09-26T04:20:58.000Z"
+  },
+  {
+    "text": "Tech's next bottleneck: we're gonna need a lot more mathematicians",
+    "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+    "category": "tech",
+    "publishedAt": "2026-09-26T02:46:54.000Z"
+  },
+  {
+    "text": "Jury: Facebook deceived users in Cambridge Analytica scandal",
+    "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+    "category": "tech",
+    "publishedAt": "2026-09-26T01:36:50.000Z"
+  },
+  {
+    "text": "Meta Connect: smart glasses were everywhere at the show",
+    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+    "category": "tech",
+    "publishedAt": "2026-09-26T01:08:57.000Z"
+  },
+  {
+    "text": "Flock camera data error jails innocent woman for 13 days",
+    "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+    "category": "tech",
+    "publishedAt": "2026-09-26T00:59:02.000Z"
+  },
+  {
+    "text": "Crusoe scraps $1.25B plan for Boom turbines at AI data centers",
+    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "category": "ai",
+    "publishedAt": "2026-09-25T23:11:10.000Z"
+  },
+  {
+    "text": "Automattic gets new board after failed bid to put CEO on leave",
+    "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T23:04:34.000Z"
+  },
+  {
+    "text": "OpenAI agents leaked 53 user images online, lab unaware",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "category": "ai",
+    "publishedAt": "2026-09-25T22:20:47.000Z"
+  },
+  {
+    "text": "What even is an OS now?",
+    "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T21:36:56.000Z"
+  },
+  {
+    "text": "OpenAI agents reportedly hacked Hugging Face; details emerge",
+    "url": "https://swarmtraces.org/",
+    "category": "ai",
+    "publishedAt": "2026-09-25T21:09:27.000Z"
+  },
+  {
+    "text": "Excel finally lets you put multiple values in one cell",
+    "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+    "category": "tech",
+    "publishedAt": "2026-09-25T20:55:00.000Z"
+  },
+  {
+    "text": "Study finds AI summaries make readers trust content less, not more",
+    "url": "https://www.tai-dr.com/",
+    "category": "ai",
+    "publishedAt": "2026-09-25T20:37:56.000Z"
+  },
+  {
+    "text": "Meta opens early access for new Muse features",
+    "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T20:34:53.000Z"
+  },
+  {
+    "text": "Middle schoolers are now hanging out in NPR's comment section",
+    "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T20:33:58.000Z"
+  },
+  {
+    "text": "Campus surveillance: stop worrying and learn to love being watched",
+    "url": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T19:56:57.000Z"
+  },
+  {
+    "text": "Businesses still run on DOS machines, because legacy code never dies.",
+    "url": "https://news.ycombinator.com/item?id=49848955",
+    "category": "tech",
+    "publishedAt": "2026-09-25T19:37:55.000Z"
+  },
+  {
+    "text": "Anthropic signs $11.6B cloud deal with Akamai over 7 years",
+    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "category": "ai",
+    "publishedAt": "2026-09-25T19:13:38.000Z"
+  },
+  {
+    "text": "Mark Wahlberg joins TechCrunch Disrupt 2026 to talk about your work, not his",
+    "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T18:48:33.000Z"
+  },
+  {
+    "text": "Alan Kay: Shannon gave us a way to handle noisy channels",
+    "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-25T18:37:05.000Z"
+  },
+  {
+    "text": "British AI neocloud Nscale raises $3.36B ahead of US IPO",
+    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "category": "ai",
+    "publishedAt": "2026-09-25T18:33:59.000Z"
+  },
+  {
+    "text": "Ollama-style OSS decision models land in Ollaya, bringing Jevons-style AI to your local stack",
+    "url": "https://ollaya.dev/",
+    "category": "ai",
+    "publishedAt": "2026-09-25T18:33:50.000Z"
+  },
+  {
+    "text": "Meta's Muse may secretly run on OpenAI model labeled muse-special",
+    "url": "https://mouse.dev/blog/muse-special/",
+    "category": "ai",
+    "publishedAt": "2026-09-25T18:18:06.000Z"
+  },
+  {
+    "text": "Claude pulls off nine loops, and we're still not sure if that's a flex or a cry for help",
+    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+    "category": "ai",
+    "publishedAt": "2026-09-25T18:11:48.000Z"
+  },
+  {
+    "text": "Aeropod automates soil aeration without robotics, debuting at TechCrunch Disrupt",
+    "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T17:30:00.000Z"
+  },
+  {
+    "text": "Supabase customers exposed reams of personal data publicly on the web",
+    "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T17:29:46.000Z"
+  },
+  {
+    "text": "Astra and Opus just passed Turing's other test",
+    "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T17:24:36.000Z"
+  },
+  {
+    "text": "Typst makes big strides",
+    "url": "https://lwn.net/Articles/1092993/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-25T16:25:08.000Z"
+  },
+  {
+    "text": "Meta backs Muse as its AI app gains serious traction",
+    "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "category": "ai",
+    "publishedAt": "2026-09-25T16:16:52.000Z"
+  },
+  {
+    "text": "Meta's AI Tamagotchi bet is actually working",
+    "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "category": "ai",
+    "publishedAt": "2026-09-25T16:00:00.000Z"
+  },
+  {
+    "text": "Kiteworks tells customers to shut down servers over imminent cyberattack threat",
+    "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T15:52:13.000Z"
+  },
+  {
+    "text": "OpenAI's agent swarms reportedly attack databases for obscure facts",
+    "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+    "category": "ai",
+    "publishedAt": "2026-09-25T15:48:14.000Z"
+  },
+  {
+    "text": "Anthropic founders want voting control before IPO",
+    "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T15:40:03.000Z"
+  },
+  {
+    "text": "Gravity may be holographic: reality as a projection from a lower dimension.",
+    "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T15:31:02.000Z"
+  },
+  {
+    "text": "Court upholds labeling Anthropic a supply chain risk",
+    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "category": "ai",
+    "publishedAt": "2026-09-25T15:29:25.000Z"
+  },
+  {
+    "text": "NSA pays billions to test AI models, classified estimates reveal",
+    "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+    "category": "ai",
+    "publishedAt": "2026-09-25T15:27:35.000Z"
+  },
+  {
+    "text": "Tesla electrifies trucking after a decade of work and delays",
+    "url": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T15:24:50.000Z"
+  },
+  {
+    "text": "AI researchers on when AI starts designing its own hardware",
+    "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+    "category": "ai",
+    "publishedAt": "2026-09-25T15:00:00.000Z"
+  },
+  {
+    "text": "Jev Plays Pokémon Red: a new Show HN experiment in AI game mastery",
+    "url": "https://jev-pokemon.vercel.app/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-25T14:28:07.000Z"
+  },
+  {
+    "text": "Factorio that you can touch",
+    "url": "https://factorio.com/blog/post/fff-447",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-25T14:24:42.000Z"
+  },
+  {
+    "text": "Laid off? TechCrunch Disrupt 2026 Expo+ Pass drops to $75",
+    "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T14:15:00.000Z"
+  },
+  {
+    "text": "Microsoft drops personal AI chatbot race, reboots Copilot",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+    "category": "ai",
+    "publishedAt": "2026-09-25T14:07:08.000Z"
+  },
+  {
+    "text": "Meadow lets you leave your smartphone at home without losing the essentials",
+    "url": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T14:05:04.000Z"
+  },
+  {
+    "text": "Airlines consider letting you use carriers on planes, because calls weren't annoying enough",
+    "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+    "category": "tech",
+    "publishedAt": "2026-09-25T14:00:10.000Z"
+  },
+  {
+    "text": "Last 24 hours to save $200 on TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T14:00:00.000Z"
+  },
+  {
+    "text": "First principles thinking: break problems down to basics, then rebuild smarter solutions.",
+    "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-25T13:55:37.000Z"
+  },
+  {
+    "text": "North Korean hackers suspected in $351M crypto theft, largest this year",
+    "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T13:24:34.000Z"
+  },
+  {
+    "text": "The Test",
+    "url": "https://tante.cc/2026/09/24/the-test/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T12:14:02.000Z"
+  },
+  {
+    "text": "Dev burnout hits hard: 'I'm tired of being on the network'",
+    "url": "https://matduggan.com/im-tired-of-being-on-the-network/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-25T12:13:55.000Z"
+  },
+  {
+    "text": "Go gets platform-independent SIMD, speeding up compute-heavy code",
+    "url": "https://go.dev/blog/simd-experiment",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-25T11:47:06.000Z"
+  },
+  {
+    "text": "Git-bug: distributed offline-first bug tracker baked right into Git",
+    "url": "https://github.com/git-bug/git-bug",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-25T11:38:31.000Z"
+  },
+  {
+    "text": "Italian mafia allegedly blocks fentanyl from entering Italy",
+    "url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+    "category": "tech",
+    "publishedAt": "2026-09-25T10:20:20.000Z"
+  },
+  {
+    "text": "Oracle must pay data centre investors even if site has no electricity",
+    "url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
+    "category": "tech",
+    "publishedAt": "2026-09-25T10:19:36.000Z"
+  },
+  {
+    "text": "Rust framework Topcoat pushes server app boundaries",
+    "url": "https://tokio.rs/blog/2026-09-24-topcoat-server-applications",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-25T09:59:40.000Z"
+  },
+  {
+    "text": "Ink and Switch launch interactive homepage experiment",
+    "url": "https://www.inkandswitch.com/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-25T09:50:25.000Z"
+  },
+  {
+    "text": "Casio to cut 1,000 jobs as watchmaker restructures",
+    "url": "https://www.ambionix.com/blog/boards-of-casio/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T09:26:01.000Z"
+  },
+  {
+    "text": "Dutch government builds Microsoft alternative on NixOS",
+    "url": "https://www.dawo.community/en/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T08:06:49.000Z"
+  },
+  {
+    "text": "Amiga Screens: A Primer — exploring the display capabilities of the classic Commodore machine.",
+    "url": "https://www.datagubbe.se/amscr/",
+    "category": "tech",
+    "publishedAt": "2026-09-25T07:31:12.000Z"
+  },
+  {
+    "text": "Pentium II 600MHz + Voodoo 3 emulated on an M6 Mac Mini",
+    "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+    "category": "tech",
+    "publishedAt": "2026-09-25T07:27:45.000Z"
+  },
+  {
+    "text": "Lightspeed eyes $250M India fund focused on early-stage AI",
+    "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+    "category": "ai",
+    "publishedAt": "2026-09-25T05:00:00.000Z"
+  },
+  {
+    "text": "Goodbye Google: tech giant faces fresh wave of user and developer departures",
+    "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+    "category": "tech",
+    "publishedAt": "2026-09-25T04:52:02.000Z"
+  },
+  {
+    "text": "Rails resurfaces in dev debates—still a solid pick or past its prime?",
+    "url": "https://jardo.dev/what-about-rails",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-25T02:50:16.000Z"
+  },
+  {
+    "text": "Waymo's fleet data shows rapid scaling of its robotaxi service",
+    "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+    "category": "tech",
+    "publishedAt": "2026-09-24T23:24:33.000Z"
+  },
+  {
+    "text": "Study finds back and shoulder surgery often worse than useless",
+    "url": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
+    "category": "tech",
+    "publishedAt": "2026-09-24T22:15:58.000Z"
+  },
+  {
+    "text": "Koi.rest: watch fish, regain your balance",
+    "url": "https://koi.rest",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-24T21:33:03.000Z"
+  },
+  {
+    "text": "Diplomacy: the board game where alpha nerds betray each other since 1959",
+    "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+    "category": "tech",
+    "publishedAt": "2026-09-24T20:53:39.000Z"
+  },
+  {
+    "text": "Nexterity automates the dangerous parts of pipefitting",
+    "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+    "category": "tech",
+    "publishedAt": "2026-09-24T20:45:00.000Z"
+  },
+  {
+    "text": "California chases wealth that has feet",
+    "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+    "category": "tech",
+    "publishedAt": "2026-09-24T20:34:32.000Z"
+  },
+  {
+    "text": "Opus 5.5 excels at explainer videos, says Hacker News",
+    "url": "https://launchvideo.io",
+    "category": "tech",
+    "publishedAt": "2026-09-24T20:28:47.000Z"
+  },
+  {
+    "text": "Sourcehut hit by account takeover via XSS in ansi2html build logs",
+    "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+    "category": "tech",
+    "publishedAt": "2026-09-24T19:54:21.000Z"
+  },
+  {
+    "text": "TechCrunch Disrupt 2026: bring a partner, get 50% off a second pass",
+    "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+    "category": "tech",
+    "publishedAt": "2026-09-24T19:15:00.000Z"
+  },
+  {
+    "text": "LLMs decode 17th century alchemical letters",
+    "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+    "category": "ai",
+    "publishedAt": "2026-09-24T19:14:27.000Z"
+  },
+  {
+    "text": "PrismML brings tiny LLMs to Qualcomm-powered smart glasses",
+    "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "category": "ai",
+    "publishedAt": "2026-09-24T19:00:42.000Z"
+  },
+  {
+    "text": "Feather aims to be the Android of robotics, giving devs a common platform",
+    "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+    "category": "tech",
+    "publishedAt": "2026-09-24T18:52:38.000Z"
+  },
+  {
+    "text": "Creatine uptake boosts antitumor immunity, study finds",
+    "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
+    "category": "tech",
+    "publishedAt": "2026-09-24T18:24:52.000Z"
+  },
+  {
+    "text": "Oracle hits Stargate NM data center with force majeure notice",
+    "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+    "category": "tech",
+    "publishedAt": "2026-09-24T18:11:44.000Z"
+  },
+  {
+    "text": "Meta's Muse Charm is a Tamagotchi-style gadget riding a newer trend",
+    "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+    "category": "tech",
+    "publishedAt": "2026-09-24T17:39:24.000Z"
+  },
+  {
+    "text": "Whiteboard: open-source IDE for thoughtful software design (YC W26)",
+    "url": "https://github.com/devdotfast/whiteboard",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-24T17:21:36.000Z"
+  },
+  {
+    "text": "Databricks buys Row Zero, hunts for more startup acquisitions",
+    "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+    "category": "tech",
+    "publishedAt": "2026-09-24T17:07:55.000Z"
+  },
+  {
+    "text": "Google Photos adds 'Clueless'-inspired virtual closet to Android and iOS",
+    "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+    "category": "tech",
+    "publishedAt": "2026-09-24T17:00:00.000Z"
+  },
+  {
+    "text": "TechCrunch Founder Summit 2026: dates, speakers, tickets and what to expect",
+    "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "category": "tech",
+    "publishedAt": "2026-09-24T16:46:47.000Z"
+  },
+  {
+    "text": "ElevenLabs CEO talks margins, IPO timing, and bot disclosure",
+    "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+    "category": "ai",
+    "publishedAt": "2026-09-24T16:35:13.000Z"
+  },
+  {
+    "text": "Liver's weird regeneration powers stump scientists, could inspire new medtech",
+    "url": "https://dynomight.substack.com/p/liver",
+    "category": "tech",
+    "publishedAt": "2026-09-24T16:23:00.000Z"
+  },
+  {
+    "text": "Judge orders Texas to air condition all prisons by 2029",
+    "url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/",
+    "category": "tech",
+    "publishedAt": "2026-09-24T16:15:34.000Z"
+  },
+  {
+    "text": "New wave of VCs to judge Startup Battlefield 200 at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+    "category": "tech",
+    "publishedAt": "2026-09-24T16:03:36.000Z"
+  },
+  {
+    "text": "Google tests letting Gemini make calls to businesses on your behalf",
+    "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+    "category": "ai",
+    "publishedAt": "2026-09-24T16:00:00.000Z"
+  },
+  {
+    "text": "Malicious GitHub imitation software still live after 3 weeks",
+    "url": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
+    "category": "dev-tip",
+    "publishedAt": "2026-09-24T15:50:26.000Z"
+  },
+  {
+    "text": "F-Droid 2.0 launches, a new chapter for open-source Android freedom",
+    "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+    "category": "tech",
+    "publishedAt": "2026-09-24T15:26:12.000Z"
+  },
+  {
+    "text": "Disney+ and Hulu hike prices up to 13% after doubling profits",
+    "url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+    "category": "tech",
+    "publishedAt": "2026-09-24T15:15:40.000Z"
+  },
+  {
+    "text": "Tutoring firm tells parents: skip us, use AI instead",
+    "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+    "category": "ai",
+    "publishedAt": "2026-09-24T15:09:38.000Z"
+  },
+  {
+    "text": "Shield AI, Waabi, GM on building AI where failure isn't an option at Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+    "category": "ai",
+    "publishedAt": "2026-09-24T15:00:00.000Z"
+  }
+]
