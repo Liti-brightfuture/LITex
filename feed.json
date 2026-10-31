@@ -1,0 +1,602 @@
+[
+  {
+    "text": "VCs' own investors open up on pile-ins, payouts, and pacing pressure",
+    "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+    "category": "tech",
+    "publishedAt": "2026-10-31T04:16:50.000Z"
+  },
+  {
+    "text": "OpenAI reportedly raises less than half of its $30B funding target",
+    "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+    "category": "ai",
+    "publishedAt": "2026-10-31T03:22:44.000Z"
+  },
+  {
+    "text": "Scribd breach reported on Hacker News; users urged to change passwords.",
+    "url": "https://news.ycombinator.com/item?id=50312756",
+    "category": "tech",
+    "publishedAt": "2026-10-31T02:46:36.000Z"
+  },
+  {
+    "text": "Nvidia may cosign Nscale's West Virginia AI data center deal",
+    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "category": "ai",
+    "publishedAt": "2026-10-31T01:20:05.000Z"
+  },
+  {
+    "text": "Show HN: TNG episode guessing game honors Sir Patrick Stewart",
+    "url": "https://tng.episodle.com/",
+    "category": "dev-tip",
+    "publishedAt": "2026-10-30T23:51:24.000Z"
+  },
+  {
+    "text": "Salesforce drops $375M on defense tech startup Rune as its M&A spree rolls on",
+    "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+    "category": "tech",
+    "publishedAt": "2026-10-30T23:21:23.000Z"
+  },
+  {
+    "text": "Privacy-focused AI assistant Ollie is shutting down",
+    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "category": "ai",
+    "publishedAt": "2026-10-30T22:56:13.000Z"
+  },
+  {
+    "text": "France approves download tax on content providers at €0.055/GB",
+    "url": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
+    "category": "tech",
+    "publishedAt": "2026-10-30T22:10:12.000Z"
+  },
+  {
+    "text": "Linode hit by security incident, users urged to rotate credentials",
+    "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
+    "category": "tech",
+    "publishedAt": "2026-10-30T21:57:40.000Z"
+  },
+  {
+    "text": "Intel stock crash wipes $12B off US government's stake",
+    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "category": "stocks",
+    "publishedAt": "2026-10-30T21:54:34.000Z"
+  },
+  {
+    "text": "Anthropic IPO may land junk credit rating, FT reports",
+    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "category": "ai",
+    "publishedAt": "2026-10-30T21:52:03.000Z"
+  },
+  {
+    "text": "Applebee's leaked customer data after leaving database password exposed in its app",
+    "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+    "category": "tech",
+    "publishedAt": "2026-10-30T21:48:53.000Z"
+  },
+  {
+    "text": "Sanstun: sans-IO, parallel-friendly WireGuard implementation in Rust",
+    "url": "https://www.firezone.dev/blog/introducing-sanstun",
+    "category": "dev-tip",
+    "publishedAt": "2026-10-30T21:30:00.000Z"
+  },
+  {
+    "text": "Tech nerds, panic not: last-minute Halloween costumes exist",
+    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+    "category": "tech",
+    "publishedAt": "2026-10-30T21:26:59.000Z"
+  },
+  {
+    "text": "Cracks are emerging in the AI spending boom, signaling a possible slowdown ahead",
+    "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+    "category": "ai",
+    "publishedAt": "2026-10-30T21:17:40.000Z"
+  },
+  {
+    "text": "AO3 is down for maintenance, so fanfic readers everywhere must find other ways to procrastinate.",
+    "url": "https://www.otwstatus.org",
+    "category": "tech",
+    "publishedAt": "2026-10-30T21:17:23.000Z"
+  },
+  {
+    "text": "Patrick Stewart's Picard taught us the measure of a man",
+    "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+    "category": "tech",
+    "publishedAt": "2026-10-30T20:23:30.000Z"
+  },
+  {
+    "text": "Crosby, the AI law firm, bids on crumbling legal giant Weil Gotshal",
+    "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+    "category": "ai",
+    "publishedAt": "2026-10-30T19:55:13.000Z"
+  },
+  {
+    "text": "Jules Verne's lost novel surfaces, proving even 19th-century sci-fi had a sequel problem",
+    "url": "https://blue-continuum.com/verne-paris",
+    "category": "tech",
+    "publishedAt": "2026-10-30T19:55:10.000Z"
+  },
+  {
+    "text": "Melting ancient ice reveals Stone Age artifacts as oldest glaciers vanish",
+    "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+    "category": "tech",
+    "publishedAt": "2026-10-30T19:51:33.000Z"
+  },
+  {
+    "text": "Infinite Mac brings BeOS emulation to your browser, reliving Apple's forgotten rival",
+    "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+    "category": "tech",
+    "publishedAt": "2026-10-30T19:30:09.000Z"
+  },
+  {
+    "text": "Bunny CDN hit by security incident, customer data reportedly exposed",
+    "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+    "category": "tech",
+    "publishedAt": "2026-10-30T19:05:22.000Z"
+  },
+  {
+    "text": "French digital tax may kill VideoLan, the non-profit behind VLC",
+    "url": "https://twitter.com/videolan/status/2116229135919919278",
+    "category": "tech",
+    "publishedAt": "2026-10-30T19:01:14.000Z"
+  },
+  {
+    "text": "French assembly votes 0.055€/GB internet tax",
+    "url": "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
+    "category": "tech",
+    "publishedAt": "2026-10-30T18:31:56.000Z"
+  },
+  {
+    "text": "Satlyt takes another step toward turning satellites into space data centers",
+    "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+    "category": "tech",
+    "publishedAt": "2026-10-30T18:01:24.000Z"
+  },
+  {
+    "text": "GitHub hit by incident affecting Actions, Pages, and Webhooks",
+    "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+    "category": "dev-tip",
+    "publishedAt": "2026-10-30T17:57:35.000Z"
+  },
+  {
+    "text": "Zest's AI agent texts to find restaurants and book reservations for you",
+    "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "category": "ai",
+    "publishedAt": "2026-10-30T17:47:12.000Z"
+  },
+  {
+    "text": "Blackstone: Anthropic may not secure investment-grade rating after IPO",
+    "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+    "category": "ai",
+    "publishedAt": "2026-10-30T17:27:25.000Z"
+  },
+  {
+    "text": "Someone got a PowerMac to run on a Nintendo Wii, and it's gloriously cursed.",
+    "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+    "category": "dev-tip",
+    "publishedAt": "2026-10-30T17:25:15.000Z"
+  },
+  {
+    "text": "Proton's CEO scraps AI-driven 're-interviews' after backlash",
+    "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+    "category": "tech",
+    "publishedAt": "2026-10-30T17:24:45.000Z"
+  },
+  {
+    "text": "Google's first data center satellite is online and writing poetry",
+    "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+    "category": "tech",
+    "publishedAt": "2026-10-30T17:00:00.000Z"
+  },
+  {
+    "text": "Someone fit a working Nintendo emulator into 1GB of Qwen model weights",
+    "url": "https://github.com/dbreunig/nesformer",
+    "category": "dev-tip",
+    "publishedAt": "2026-10-30T16:40:22.000Z"
+  },
+  {
+    "text": "US tech stocks slide as AI cost fears spook investors",
+    "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+    "category": "stocks",
+    "publishedAt": "2026-10-30T16:13:02.000Z"
+  },
+  {
+    "text": "Theranos whistleblower warns AI boom is 'a great opportunity to go deceive people'",
+    "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "category": "ai",
+    "publishedAt": "2026-10-30T16:03:45.000Z"
+  },
+  {
+    "text": "AI isn't replacing SREs, it's deskilling them",
+    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "category": "ai",
+    "publishedAt": "2026-10-30T15:52:18.000Z"
+  },
+  {
+    "text": "LaTeX now grows procedural flowers with Florilegium, because of course it does",
+    "url": "https://github.com/kevinraymond/florilegium",
+    "category": "dev-tip",
+    "publishedAt": "2026-10-30T15:48:12.000Z"
+  },
+  {
+    "text": "The federated code forge: decentralization comes to source hosting",
+    "url": "https://tangled.org/blog/forge/",
+    "category": "dev-tip",
+    "publishedAt": "2026-10-30T15:44:29.000Z"
+  },
+  {
+    "text": "North Korea linked to $6.3B Binance hack by blockchain sleuths",
+    "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+    "category": "tech",
+    "publishedAt": "2026-10-30T15:39:05.000Z"
+  },
+  {
+    "text": "ICE demands mask return, hires firm to enforce the ask",
+    "url": "https://blog.flokinet.is/2026/10/29/ice-wants-its-mask-back-and-hired-a-company-to-ask/",
+    "category": "tech",
+    "publishedAt": "2026-10-30T15:26:58.000Z"
+  },
+  {
+    "text": "Polymarket halts 1h after vendor compromise, promises to make affected users whole",
+    "url": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405",
+    "category": "tech",
+    "publishedAt": "2026-10-30T15:23:41.000Z"
+  },
+  {
+    "text": "Northflank breached—developer platform security incident under scrutiny",
+    "url": "https://status.northflank.com",
+    "category": "tech",
+    "publishedAt": "2026-10-30T15:10:31.000Z"
+  },
+  {
+    "text": "Medicare pays $50k for heart attacks but won't spend $100 to prevent them",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+    "category": "tech",
+    "publishedAt": "2026-10-30T14:27:44.000Z"
+  },
+  {
+    "text": "North Korean hackers blamed for record $6.3B Binance breach",
+    "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+    "category": "tech",
+    "publishedAt": "2026-10-30T14:00:25.000Z"
+  },
+  {
+    "text": "Skip small talk: TechCrunch Founder Summit's Braindate helps you make game-changing connections",
+    "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+    "category": "tech",
+    "publishedAt": "2026-10-30T14:00:00.000Z"
+  },
+  {
+    "text": "DoorDash says AI agents have placed only 'several hundred' orders so far",
+    "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+    "category": "ai",
+    "publishedAt": "2026-10-30T13:54:25.000Z"
+  },
+  {
+    "text": "Startup bets AI data centers can be mass-produced like cars",
+    "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+    "category": "ai",
+    "publishedAt": "2026-10-30T13:00:00.000Z"
+  },
+  {
+    "text": "5 days left to grab TechCrunch Founder Summit 2026 savings",
+    "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+    "category": "tech",
+    "publishedAt": "2026-10-30T13:00:00.000Z"
+  },
+  {
+    "text": "Binance's $6.3B hack took just 20 minutes to pull off.",
+    "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+    "category": "tech",
+    "publishedAt": "2026-10-30T12:50:01.000Z"
+  },
+  {
+    "text": "Democrats push resolution against AI bubble bailouts for Big Tech",
+    "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+    "category": "ai",
+    "publishedAt": "2026-10-30T12:08:00.000Z"
+  },
+  {
+    "text": "Backdoors found in official Claude Code extensions—supply chain risk hits AI dev tools.",
+    "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+    "category": "ai",
+    "publishedAt": "2026-10-30T11:05:53.000Z"
+  },
+  {
+    "text": "Malicious Claude Code VS Code extension with backdoor found on Cursor marketplace",
+    "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+    "category": "dev-tip",
+    "publishedAt": "2026-10-30T10:22:51.000Z"
+  },
+  {
+    "text": "Five full cross-tenant compromises hit Azure — researchers map its weakest link",
+    "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+    "category": "tech",
+    "publishedAt": "2026-10-30T10:06:15.000Z"
+  },
+  {
+    "text": "Ask HN asks: are you tired too in this AI era?",
+    "url": "https://news.ycombinator.com/item?id=50301479",
+    "category": "ai",
+    "publishedAt": "2026-10-30T09:17:43.000Z"
+  },
+  {
+    "text": "elect.horse: a new HN project making the rounds",
+    "url": "https://elect.horse/",
+    "category": "dev-tip",
+    "publishedAt": "2026-10-30T09:14:34.000Z"
+  },
+  {
+    "text": "Backdoor found in Claude Code VS Code extension on Cursor Marketplace",
+    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+    "category": "ai",
+    "publishedAt": "2026-10-30T07:09:12.000Z"
+  },
+  {
+    "text": "Waymo teams with Toyota to bring robotaxis to Japan and the U.K.",
+    "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+    "category": "tech",
+    "publishedAt": "2026-10-30T07:01:00.000Z"
+  },
+  {
+    "text": "Pico CSS, the minimalist classless framework, is no longer maintained",
+    "url": "https://github.com/picocss/pico/discussions/754",
+    "category": "dev-tip",
+    "publishedAt": "2026-10-30T01:58:44.000Z"
+  },
+  {
+    "text": "Court: religious exemption from work AI doesn't require belief in a god",
+    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "category": "ai",
+    "publishedAt": "2026-10-30T01:20:48.000Z"
+  },
+  {
+    "text": "Herdr launches a native app",
+    "url": "https://github.com/herdrdev/herdr-app",
+    "category": "tech",
+    "publishedAt": "2026-10-30T00:42:41.000Z"
+  },
+  {
+    "text": "Jassy: Prime Video on track to earn tens of billions of dollars",
+    "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T23:44:56.000Z"
+  },
+  {
+    "text": "Jassy: AWS is headed to $1T—but it'll spend big to get there",
+    "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T23:42:22.000Z"
+  },
+  {
+    "text": "Dev turns DOOM into a Transformer—LLMs now rip and tear",
+    "url": "https://github.com/mottopanikeiku/doomformer",
+    "category": "dev-tip",
+    "publishedAt": "2026-10-29T23:25:46.000Z"
+  },
+  {
+    "text": "Binance halts withdrawals amid suspected multibillion-dollar crypto hack",
+    "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T22:27:23.000Z"
+  },
+  {
+    "text": "Studio Ghibli's Porco Rosso: a pig, the state, and war — a timeless anti-war fable",
+    "url": "https://journal.animationstudies.org/article/id/66/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T22:26:38.000Z"
+  },
+  {
+    "text": "Putin calls Elon Musk 'truly a genius' — tech's new geopolitical power player",
+    "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T21:51:29.000Z"
+  },
+  {
+    "text": "Proton goes all in on AI—privacy-first suite embraces the tech",
+    "url": "https://convo.casa/@b/117525936178835007",
+    "category": "ai",
+    "publishedAt": "2026-10-29T21:49:28.000Z"
+  },
+  {
+    "text": "El Niño brings highest tides to flood California's coasts",
+    "url": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
+    "category": "tech",
+    "publishedAt": "2026-10-29T21:48:35.000Z"
+  },
+  {
+    "text": "AI agent swarms now play Minecraft and Mindustry, and researchers are watching",
+    "url": "https://labs.ycombinator.com/projects/games/index.html",
+    "category": "ai",
+    "publishedAt": "2026-10-29T21:40:28.000Z"
+  },
+  {
+    "text": "Binance hacker moves $5.6B—largest crypto heist yet",
+    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "category": "tech",
+    "publishedAt": "2026-10-29T21:38:59.000Z"
+  },
+  {
+    "text": "Amazon cloud booms while the rest of the business misses expectations",
+    "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T21:20:47.000Z"
+  },
+  {
+    "text": "GM pays $220M for selling drivers' private data",
+    "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T21:01:04.000Z"
+  },
+  {
+    "text": "ElementaryUI brings Swift to the browser",
+    "url": "https://elementary.codes",
+    "category": "dev-tip",
+    "publishedAt": "2026-10-29T20:56:39.000Z"
+  },
+  {
+    "text": "Archive of Our Own could stay offline up to 4 weeks after outage",
+    "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T20:43:56.000Z"
+  },
+  {
+    "text": "Tiny world model runs games on a Raspberry Pi Pico 2 W",
+    "url": "https://github.com/SheepSeb/tinyworldformer",
+    "category": "ai",
+    "publishedAt": "2026-10-29T20:32:28.000Z"
+  },
+  {
+    "text": "Reddit shifts to logged-in experience as search traffic dries up",
+    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T20:08:31.000Z"
+  },
+  {
+    "text": "Rivian and VW expand their joint venture to build in-car AI assistants",
+    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+    "category": "ai",
+    "publishedAt": "2026-10-29T20:05:47.000Z"
+  },
+  {
+    "text": "Rivian's R2 SUV is already its best-selling vehicle",
+    "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T20:02:03.000Z"
+  },
+  {
+    "text": "OpenAI-backed Thrive Holdings acquires ADT in a bold security-tech power move",
+    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T19:56:19.000Z"
+  },
+  {
+    "text": "Patrick Stewart has died",
+    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+    "category": "tech",
+    "publishedAt": "2026-10-29T19:41:39.000Z"
+  },
+  {
+    "text": "Software communities matter as much as the code itself",
+    "url": "https://lumi.codeberg.page/blog/software-community.html",
+    "category": "dev-tip",
+    "publishedAt": "2026-10-29T19:27:47.000Z"
+  },
+  {
+    "text": "Show HN: Auto-dismiss macOS local network permission prompts",
+    "url": "https://github.com/johncassil/dontallow",
+    "category": "dev-tip",
+    "publishedAt": "2026-10-29T19:27:44.000Z"
+  },
+  {
+    "text": "Airbnb threw a gala and nobody told us. Classic.",
+    "url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T19:17:49.000Z"
+  },
+  {
+    "text": "Meta quietly launches AI fashion app Style Sketch",
+    "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+    "category": "ai",
+    "publishedAt": "2026-10-29T19:14:36.000Z"
+  },
+  {
+    "text": "Granola adds dictation to take on Wispr in voice-to-text race",
+    "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T17:54:38.000Z"
+  },
+  {
+    "text": "Report: alleged Chinese spy had close ties to Nvidia CEO Jensen Huang",
+    "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T17:43:48.000Z"
+  },
+  {
+    "text": "Claude Duet: first personal-assistant harness that actually feels useful",
+    "url": "https://fig.blue/posts/duet-is-the-future/",
+    "category": "ai",
+    "publishedAt": "2026-10-29T17:24:25.000Z"
+  },
+  {
+    "text": "Word2Vec creator Tomáš Mikolov receives Czech Medal of Merit from the President",
+    "url": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
+    "category": "ai",
+    "publishedAt": "2026-10-29T16:56:54.000Z"
+  },
+  {
+    "text": "US probed Chinese spy plot targeting Nvidia CEO, report says",
+    "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T16:42:32.000Z"
+  },
+  {
+    "text": "Google Search drops below 50% of Alphabet revenue for the first time",
+    "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+    "category": "tech",
+    "publishedAt": "2026-10-29T16:42:17.000Z"
+  },
+  {
+    "text": "Ex-Palantir execs raise $17M from a16z to build AI world models for construction",
+    "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "category": "ai",
+    "publishedAt": "2026-10-29T16:21:00.000Z"
+  },
+  {
+    "text": "SuperMe raises $20M to build a network of AI expert profiles",
+    "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+    "category": "ai",
+    "publishedAt": "2026-10-29T16:19:43.000Z"
+  },
+  {
+    "text": "16colo.rs: a massive archive preserving the ANSI/ASCII art scene",
+    "url": "https://16colo.rs/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T16:14:28.000Z"
+  },
+  {
+    "text": "H.264 video compression is basically magic, explains a classic 2016 deep dive",
+    "url": "https://sidbala.com/h-264-is-magic/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T15:53:03.000Z"
+  },
+  {
+    "text": "Grace Blackwell's new scheduler boosts usable GPUs 27% per rack",
+    "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+    "category": "tech",
+    "publishedAt": "2026-10-29T15:45:05.000Z"
+  },
+  {
+    "text": "Mexico becomes a showroom for EVs you can't buy north of the border",
+    "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+    "category": "tech",
+    "publishedAt": "2026-10-29T15:30:22.000Z"
+  },
+  {
+    "text": "AI keeps quoting zombie stats—here's where those numbers actually come from",
+    "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+    "category": "ai",
+    "publishedAt": "2026-10-29T15:06:17.000Z"
+  },
+  {
+    "text": "Mintive raises from Cowboy, Coatue, Jeff Dean & Karpathy to build agent identity",
+    "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+    "category": "ai",
+    "publishedAt": "2026-10-29T15:00:00.000Z"
+  },
+  {
+    "text": "LLM voice interface emerges on Hacker News, pushing conversational AI closer to natural speech",
+    "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+    "category": "ai",
+    "publishedAt": "2026-10-29T14:57:55.000Z"
+  },
+  {
+    "text": "Finland investigates Google over destruction of 250k trees",
+    "url": "https://yle.fi/a/74-20254086",
+    "category": "tech",
+    "publishedAt": "2026-10-29T14:57:41.000Z"
+  },
+  {
+    "text": "DoorDash is acquiring Instacart for $17B",
+    "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+    "category": "stocks",
+    "publishedAt": "2026-10-29T14:40:43.000Z"
+  }
+]
