@@ -1,0 +1,602 @@
+[
+  {
+    "text": "Crusoe offloads its troubled Wyoming data center project to Google",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "category": "tech",
+    "publishedAt": "2026-11-07T01:40:28.000Z"
+  },
+  {
+    "text": "Libghostty 1.0 lands: a fast, embeddable terminal core hits its first stable release",
+    "url": "https://mitchellh.com/writing/libghostty-1-0",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-06T23:30:52.000Z"
+  },
+  {
+    "text": "Sodium-ion batteries closing in on cost parity with LFP—cheaper grid storage ahead",
+    "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+    "category": "tech",
+    "publishedAt": "2026-11-06T23:00:46.000Z"
+  },
+  {
+    "text": "OpenAI raises $11B more at a $1.25 trillion valuation, cementing its AI mega-cap status",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "category": "ai",
+    "publishedAt": "2026-11-06T22:53:46.000Z"
+  },
+  {
+    "text": "Apple says the Duo apps are coming",
+    "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+    "category": "tech",
+    "publishedAt": "2026-11-06T21:38:05.000Z"
+  },
+  {
+    "text": "AI is now speeding up AI research itself, dramatically accelerating the loop",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "category": "ai",
+    "publishedAt": "2026-11-06T20:27:23.000Z"
+  },
+  {
+    "text": "Jev querying Opus boosts accuracy at 4x lower cost",
+    "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+    "category": "ai",
+    "publishedAt": "2026-11-06T19:48:51.000Z"
+  },
+  {
+    "text": "Firecracker VM escape PwnEscape Part 2 shows sandbox boundaries are still punching bags",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-06T19:33:38.000Z"
+  },
+  {
+    "text": "Democrats launch congressional probes into SpaceXAI, Meta and Apple",
+    "url": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
+    "category": "tech",
+    "publishedAt": "2026-11-06T19:24:24.000Z"
+  },
+  {
+    "text": "Delivery apps skim restaurants via payment tricks—check your POS integration now",
+    "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+    "category": "tech",
+    "publishedAt": "2026-11-06T19:19:27.000Z"
+  },
+  {
+    "text": "Hundreds of Artex AI hacking tools found exposed publicly on the web",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "category": "tech",
+    "publishedAt": "2026-11-06T18:44:38.000Z"
+  },
+  {
+    "text": "Meta launches Spaces to collaborate with your Muse AI agent",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "category": "ai",
+    "publishedAt": "2026-11-06T18:44:20.000Z"
+  },
+  {
+    "text": "15k websites are infected with malware — the hard part is figuring out how to warn them all.",
+    "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+    "category": "tech",
+    "publishedAt": "2026-11-06T18:13:35.000Z"
+  },
+  {
+    "text": "Kalshi's court losses mount as judges refuse to block state gambling laws",
+    "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+    "category": "stocks",
+    "publishedAt": "2026-11-06T18:02:34.000Z"
+  },
+  {
+    "text": "Devvm.dev: one VM per project—isolate your dev environments cleanly",
+    "url": "https://devvm.dev/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-06T17:30:22.000Z"
+  },
+  {
+    "text": "Midterms done: AI industry braces for a rough two years ahead",
+    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "category": "ai",
+    "publishedAt": "2026-11-06T17:23:52.000Z"
+  },
+  {
+    "text": "Anthropic IPO buyers eye valuation as low as $1.1T",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "category": "ai",
+    "publishedAt": "2026-11-06T16:54:36.000Z"
+  },
+  {
+    "text": "Bare-metal programming starts with UEFI: your first bootloader hello world",
+    "url": "https://kevinboone.me/efitest_index.html",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-06T16:50:29.000Z"
+  },
+  {
+    "text": "Pentagon backs battery startup 6K with $250M loan for US factory",
+    "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+    "category": "tech",
+    "publishedAt": "2026-11-06T16:50:01.000Z"
+  },
+  {
+    "text": "Rune: native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+    "url": "https://github.com/anomalyco/rune",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-06T16:31:32.000Z"
+  },
+  {
+    "text": "Fox closes $22B Roku deal, betting big on streaming hardware",
+    "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+    "category": "tech",
+    "publishedAt": "2026-11-06T16:05:36.000Z"
+  },
+  {
+    "text": "Ramp data: AI spending stalls just as Anthropic nears its IPO",
+    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "category": "ai",
+    "publishedAt": "2026-11-06T15:54:47.000Z"
+  },
+  {
+    "text": "Deus Ex: 25 years later, a cyberpunk classic still asks who really holds the power.",
+    "url": "https://www.filfre.net/2026/11/deus-ex/",
+    "category": "tech",
+    "publishedAt": "2026-11-06T15:44:36.000Z"
+  },
+  {
+    "text": "RIP Cybertruck: the polarizing pickup reportedly meets its end",
+    "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+    "category": "tech",
+    "publishedAt": "2026-11-06T15:01:38.000Z"
+  },
+  {
+    "text": "Ask HN asks: what in the world is taking Ubuntu so long?",
+    "url": "https://news.ycombinator.com/item?id=50393105",
+    "category": "tech",
+    "publishedAt": "2026-11-06T14:58:33.000Z"
+  },
+  {
+    "text": "AI bots swarm university libraries online, threatening public access to academic resources",
+    "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+    "category": "ai",
+    "publishedAt": "2026-11-06T14:13:09.000Z"
+  },
+  {
+    "text": "Amazon now lets you text Alexa to help you shop, after blocking Muse",
+    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "category": "tech",
+    "publishedAt": "2026-11-06T14:10:00.000Z"
+  },
+  {
+    "text": "Gemini Omni 1.2 Flash hits Hacker News, the latest multimodal model fast enough to keep up",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "category": "ai",
+    "publishedAt": "2026-11-06T13:35:27.000Z"
+  },
+  {
+    "text": "Underdog demos a tiny 32MB speech model, proving small AI can talk big",
+    "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+    "category": "ai",
+    "publishedAt": "2026-11-06T13:02:16.000Z"
+  },
+  {
+    "text": "Physicl lands $10M to make the digital world real enough for robots",
+    "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "category": "ai",
+    "publishedAt": "2026-11-06T13:00:00.000Z"
+  },
+  {
+    "text": "Tesla winds down Cybertruck production after years of poor sales in few markets",
+    "url": "https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv",
+    "category": "stocks",
+    "publishedAt": "2026-11-06T12:13:51.000Z"
+  },
+  {
+    "text": "Tesla reportedly winding down Cybertruck production as the polarizing pickup faces an uncertain future.",
+    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+    "category": "stocks",
+    "publishedAt": "2026-11-06T12:13:51.000Z"
+  },
+  {
+    "text": "Tesla to end Cybertruck production in 2027, closing a polarizing chapter",
+    "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+    "category": "tech",
+    "publishedAt": "2026-11-06T11:50:10.000Z"
+  },
+  {
+    "text": "Open-source feature flag server, 11 years in the making, still going strong",
+    "url": "https://github.com/Unleash/unleash",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-06T11:40:06.000Z"
+  },
+  {
+    "text": "Wood ants trapped in a giant pitfall reveal nature's cruelest traps",
+    "url": "https://jhr.pensoft.net/articles.php?id=9096",
+    "category": "tech",
+    "publishedAt": "2026-11-06T10:21:15.000Z"
+  },
+  {
+    "text": "Dutch bank ASN blocks non-Google Android, including GrapheneOS users",
+    "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+    "category": "tech",
+    "publishedAt": "2026-11-06T09:27:12.000Z"
+  },
+  {
+    "text": "OpenStreetMap becomes a battlefield: multiplayer tanks level real buildings",
+    "url": "https://worldstrike.fun/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-06T07:55:48.000Z"
+  },
+  {
+    "text": "Kugelblitz: a Mac-native Google Earth alternative just landed on Hacker News.",
+    "url": "https://apps.metaebene.me/en/kugelblitz",
+    "category": "tech",
+    "publishedAt": "2026-11-06T07:47:38.000Z"
+  },
+  {
+    "text": "Blender's new UI runtime beats GPUI for speed",
+    "url": "https://github.com/ppmpreetham/BUI",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-06T07:40:35.000Z"
+  },
+  {
+    "text": "UK to mandate salary ranges in job ads, boosting pay transparency",
+    "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-06T07:22:04.000Z"
+  },
+  {
+    "text": "10+ local governments drop Flock surveillance cameras since summer",
+    "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+    "category": "tech",
+    "publishedAt": "2026-11-06T07:18:44.000Z"
+  },
+  {
+    "text": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "category": "ai",
+    "publishedAt": "2026-11-06T06:28:32.000Z"
+  },
+  {
+    "text": "AI research may not be as ingenious as the hype suggests, argues a skeptical take.",
+    "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+    "category": "ai",
+    "publishedAt": "2026-11-06T05:19:04.000Z"
+  },
+  {
+    "text": "Volunteers power the internet, from Linux to Wikipedia—open collaboration still wins.",
+    "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-06T04:17:49.000Z"
+  },
+  {
+    "text": "FAA to retire floppy disks from air traffic control by 2028",
+    "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+    "category": "tech",
+    "publishedAt": "2026-11-06T04:00:28.000Z"
+  },
+  {
+    "text": "Pwn.college: hands-on cybersecurity training platform trending on Hacker News",
+    "url": "https://pwn.college/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-06T03:27:14.000Z"
+  },
+  {
+    "text": "Nvidia launches Kubernetes Engine (NVKE) to orchestrate GPU workloads",
+    "url": "https://github.com/dsx-ai-factory/nvke",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-06T03:16:26.000Z"
+  },
+  {
+    "text": "NYT reportedly in talks to buy Letterboxd for $330M",
+    "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+    "category": "tech",
+    "publishedAt": "2026-11-06T00:07:18.000Z"
+  },
+  {
+    "text": "Meta, Google, TikTok sue California AG over teen social media law",
+    "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+    "category": "tech",
+    "publishedAt": "2026-11-06T00:01:38.000Z"
+  },
+  {
+    "text": "Inkling 2 Small hits Hacker News—small models, big ambitions.",
+    "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+    "category": "ai",
+    "publishedAt": "2026-11-06T00:00:24.000Z"
+  },
+  {
+    "text": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+    "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+    "category": "ai",
+    "publishedAt": "2026-11-05T23:09:57.000Z"
+  },
+  {
+    "text": "Airbnb to launch an AI travel agent in the first half of 2027",
+    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "category": "ai",
+    "publishedAt": "2026-11-05T22:40:55.000Z"
+  },
+  {
+    "text": "Claude Code allegedly leaks your email address to visited websites",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "category": "ai",
+    "publishedAt": "2026-11-05T22:17:15.000Z"
+  },
+  {
+    "text": "$2.5T wiped from US stocks as markets plunge",
+    "url": "https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks",
+    "category": "stocks",
+    "publishedAt": "2026-11-05T21:39:26.000Z"
+  },
+  {
+    "text": "Serve Robotics wants to be the AWS for robots with new business launch",
+    "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T21:15:00.000Z"
+  },
+  {
+    "text": "MS Paint has a remote code execution vulnerability, so even doodling is dangerous now",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+    "category": "tech",
+    "publishedAt": "2026-11-05T20:43:42.000Z"
+  },
+  {
+    "text": "People search tools keep expanding—privacy questions grow alongside them.",
+    "url": "https://kagi.com/changelog#11820",
+    "category": "tech",
+    "publishedAt": "2026-11-05T20:03:34.000Z"
+  },
+  {
+    "text": "Kagi Search opens to everyone, taking on Google with ad-free paid search",
+    "url": "https://kagi.com/changelog",
+    "category": "tech",
+    "publishedAt": "2026-11-05T20:03:34.000Z"
+  },
+  {
+    "text": "Salon says goodbye: the pioneering digital magazine signs off",
+    "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T20:03:29.000Z"
+  },
+  {
+    "text": "Meta adds AI video chat with Muse avatars for US users",
+    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "category": "ai",
+    "publishedAt": "2026-11-05T19:48:28.000Z"
+  },
+  {
+    "text": "Pangram Image 1.0 launches, promising AI-generated image detection that actually works",
+    "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+    "category": "ai",
+    "publishedAt": "2026-11-05T19:27:52.000Z"
+  },
+  {
+    "text": "Hungary opens communist-era files, exposing up to 60k former agents",
+    "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+    "category": "tech",
+    "publishedAt": "2026-11-05T19:16:34.000Z"
+  },
+  {
+    "text": "Meta warns election backlash over data centers could slow AI expansion",
+    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "category": "ai",
+    "publishedAt": "2026-11-05T19:12:39.000Z"
+  },
+  {
+    "text": "The Hackintosh reborn: running macOS on non-Apple hardware makes a comeback.",
+    "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T19:08:22.000Z"
+  },
+  {
+    "text": "OpenAI ships a new cybersecurity model—but is it enough to stop real threats?",
+    "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "category": "ai",
+    "publishedAt": "2026-11-05T19:06:12.000Z"
+  },
+  {
+    "text": "US warns of ongoing cyber threat as hackers hit industrial, retail and military freezers",
+    "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T18:48:34.000Z"
+  },
+  {
+    "text": "OpenAI could be IPO ready by 2027, says president Greg Brockman",
+    "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+    "category": "ai",
+    "publishedAt": "2026-11-05T18:02:27.000Z"
+  },
+  {
+    "text": "Nasdaq sinks 5% as investors retreat from AI trade after election",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+    "category": "stocks",
+    "publishedAt": "2026-11-05T18:00:01.000Z"
+  },
+  {
+    "text": "Claude now audits your spending with new Personal Finance tool",
+    "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+    "category": "ai",
+    "publishedAt": "2026-11-05T18:00:00.000Z"
+  },
+  {
+    "text": "Ex-Secret Service agent who flipped a hacker raises second $250M cybersecurity fund",
+    "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T18:00:00.000Z"
+  },
+  {
+    "text": "Harbinger raises $240M after expanding into defense",
+    "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T17:52:44.000Z"
+  },
+  {
+    "text": "Wonder files for IPO as food delivery startup eyes its next big bite",
+    "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T17:11:48.000Z"
+  },
+  {
+    "text": "Nasdaq drops 4%, slips into correction territory as tech selloff deepens",
+    "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+    "category": "stocks",
+    "publishedAt": "2026-11-05T17:11:15.000Z"
+  },
+  {
+    "text": "Window Sweaters: HN debates the cozy new trend of dressing up your desktop windows",
+    "url": "https://github.com/saragordic/window-sweaters",
+    "category": "tech",
+    "publishedAt": "2026-11-05T16:50:14.000Z"
+  },
+  {
+    "text": "Cochlear implant user shares psychophysics insights from bilateral hearing experience",
+    "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+    "category": "tech",
+    "publishedAt": "2026-11-05T16:21:12.000Z"
+  },
+  {
+    "text": "Axiom Math fights to keep AI slop out of mathematics",
+    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "category": "ai",
+    "publishedAt": "2026-11-05T16:16:45.000Z"
+  },
+  {
+    "text": "Motorola Signature 27 ships with GrapheneOS support",
+    "url": "https://motorolanews.com/motorola-signature-27-2/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T16:01:34.000Z"
+  },
+  {
+    "text": "Bluesky hit peak usage for the year on Election Night",
+    "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T15:44:58.000Z"
+  },
+  {
+    "text": "Zipline drones hit $21.5B valuation as Walmart expands delivery bet",
+    "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T15:40:34.000Z"
+  },
+  {
+    "text": "TikTok spins off TikTok Shop into its own standalone app",
+    "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T15:33:58.000Z"
+  },
+  {
+    "text": "Dropbox buys Tigris Data for $350M to boost its AI infrastructure",
+    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "category": "ai",
+    "publishedAt": "2026-11-05T15:19:05.000Z"
+  },
+  {
+    "text": "ElevenLabs lets users publish AI-generated music straight to SoundCloud",
+    "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+    "category": "ai",
+    "publishedAt": "2026-11-05T15:00:00.000Z"
+  },
+  {
+    "text": "Instagram's Edits hits desktop to challenge CapCut's video editing dominance",
+    "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T15:00:00.000Z"
+  },
+  {
+    "text": "Satellites are crowding our night skies, and the view is only getting worse",
+    "url": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
+    "category": "tech",
+    "publishedAt": "2026-11-05T14:49:07.000Z"
+  },
+  {
+    "text": "OpenSSH password auth bypass hits Alpine Linux—patch now",
+    "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-05T14:44:20.000Z"
+  },
+  {
+    "text": "Aina's smart ring packs a screen, joystick and mic for talking to AI agents",
+    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T14:42:00.000Z"
+  },
+  {
+    "text": "Servo browser engine gets progress updates, rounded rectangles in September",
+    "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-05T14:34:18.000Z"
+  },
+  {
+    "text": "MCP Explained: the protocol connecting AI models to tools and data, now on HN",
+    "url": "https://mcp-explained.com/",
+    "category": "ai",
+    "publishedAt": "2026-11-05T14:08:35.000Z"
+  },
+  {
+    "text": "Box taps Nvidia's Nemotron for agent-first content retrieval system",
+    "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "category": "ai",
+    "publishedAt": "2026-11-05T14:00:00.000Z"
+  },
+  {
+    "text": "RadianX claims its solar-powered devices will never need charging",
+    "url": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T14:00:00.000Z"
+  },
+  {
+    "text": "Tech companies still don't know you well enough, and honestly, that's a win.",
+    "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-05T13:40:52.000Z"
+  },
+  {
+    "text": "Discord ditches Electron as new app slashes RAM usage",
+    "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+    "category": "tech",
+    "publishedAt": "2026-11-05T13:05:28.000Z"
+  },
+  {
+    "text": "YouTube video downloaders keep thriving despite platform pushback",
+    "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T13:00:11.000Z"
+  },
+  {
+    "text": "YC startup bets $1M on five unsolved materials science problems for AI to crack",
+    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "category": "ai",
+    "publishedAt": "2026-11-05T13:00:00.000Z"
+  },
+  {
+    "text": "Obscure audio codec turns out to be a perfect fit for the N64",
+    "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-05T12:51:48.000Z"
+  },
+  {
+    "text": "Sshole: a new tool worth keeping an ssh eye on",
+    "url": "https://sshhole.com",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-05T12:19:02.000Z"
+  },
+  {
+    "text": "Humanoid robot maker Agility goes public—would you buy in?",
+    "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "category": "stocks",
+    "publishedAt": "2026-11-05T12:00:00.000Z"
+  },
+  {
+    "text": "OpenSSH 10.6p2 ships a critical workaround for Alpine users without PAM.",
+    "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-05T11:40:30.000Z"
+  },
+  {
+    "text": "Awesome lists lose their shine as curation quality fades",
+    "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-05T11:16:51.000Z"
+  },
+  {
+    "text": "Amazon drops GrubHub for Uber Eats in Prime deal shift",
+    "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+    "category": "tech",
+    "publishedAt": "2026-11-05T11:00:00.000Z"
+  }
+]
