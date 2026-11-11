@@ -1,0 +1,602 @@
+[
+  {
+    "text": "Siri co-founder backs Helix's voice ID tech",
+    "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+    "category": "ai",
+    "publishedAt": "2026-11-11T15:02:47.000Z"
+  },
+  {
+    "text": "Databricks' new AI agent gives CEO Ali Ghodsi the unvarnished truth",
+    "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+    "category": "ai",
+    "publishedAt": "2026-11-11T15:00:00.000Z"
+  },
+  {
+    "text": "Plurai applies self-driving car lessons to make AI agents work better",
+    "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+    "category": "ai",
+    "publishedAt": "2026-11-11T14:00:00.000Z"
+  },
+  {
+    "text": "Asked every TV maker 17 questions on spying—answers were tellingly vague",
+    "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+    "category": "tech",
+    "publishedAt": "2026-11-11T13:56:05.000Z"
+  },
+  {
+    "text": "Linear programs might tackle weight-space programming, a new twist on model control.",
+    "url": "https://nathan.rs/posts/weight-space-lp/",
+    "category": "ai",
+    "publishedAt": "2026-11-11T12:30:17.000Z"
+  },
+  {
+    "text": "48 AI agents map a lost Maya pyramid from NASA lidar in just 72 hours",
+    "url": "https://pietromiotti.com/latest/maya-site/?maya",
+    "category": "ai",
+    "publishedAt": "2026-11-11T12:05:22.000Z"
+  },
+  {
+    "text": "Voltage glitching turns a mining card into an A100-class GPU",
+    "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+    "category": "tech",
+    "publishedAt": "2026-11-11T10:48:40.000Z"
+  },
+  {
+    "text": "Nvidia's governance drama has experts grabbing popcorn",
+    "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+    "category": "tech",
+    "publishedAt": "2026-11-11T07:30:51.000Z"
+  },
+  {
+    "text": "Greg Kurtzer's Ginux turns into a userspace kernel",
+    "url": "https://github.com/gmkurtzer/ginux",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-11T05:25:54.000Z"
+  },
+  {
+    "text": "SSH keys can now be locked inside macOS Secure Enclave for stronger protection",
+    "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-11T04:28:57.000Z"
+  },
+  {
+    "text": "US tightens synthetic DNA order rules to deter bioterrorism",
+    "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+    "category": "tech",
+    "publishedAt": "2026-11-11T02:57:08.000Z"
+  },
+  {
+    "text": "Old-school game programming hack from 2013 resurfaces—clever tricks never go out of style",
+    "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-11T01:56:31.000Z"
+  },
+  {
+    "text": "X launches clipping feature to boost influencer engagement",
+    "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+    "category": "tech",
+    "publishedAt": "2026-11-11T01:02:13.000Z"
+  },
+  {
+    "text": "Glasswing's 7-month audit underwhelms maintainers",
+    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-10T22:17:56.000Z"
+  },
+  {
+    "text": "$30M raised to redesign the CPU from scratch",
+    "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+    "category": "tech",
+    "publishedAt": "2026-11-10T22:14:03.000Z"
+  },
+  {
+    "text": "Apple preps Mac app to make running local AI models easy",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T21:25:03.000Z"
+  },
+  {
+    "text": "OpenAI acquires Odessia, a travel startup founded by Sonder's creator",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T21:08:52.000Z"
+  },
+  {
+    "text": "Terence Tao shares six math essentials every problem-solver should know",
+    "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-10T20:58:44.000Z"
+  },
+  {
+    "text": "New York's AI safety law takes effect, bringing fresh oversight to OpenAI and Anthropic",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T20:52:13.000Z"
+  },
+  {
+    "text": "Proximal Ventures closes debut fund to back startups using AI to speed up drug development",
+    "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T20:47:05.000Z"
+  },
+  {
+    "text": "X-energy approved to build first small modular nuclear reactors",
+    "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T20:43:55.000Z"
+  },
+  {
+    "text": "All 7 Anthropic founders to cash out ~$250M each in IPO",
+    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T19:57:52.000Z"
+  },
+  {
+    "text": "Scion returns to America with a kei truck—small, weird, and very on-brand",
+    "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T19:50:46.000Z"
+  },
+  {
+    "text": "Reasoning models chase objectives—but which ones, and who decides?",
+    "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T19:25:14.000Z"
+  },
+  {
+    "text": "Oura buys AI primary care startup Counsel Health for $625M",
+    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T19:23:34.000Z"
+  },
+  {
+    "text": "Study measures how fingerprintable web users are—privacy surprise: most are uniquely trackable",
+    "url": "https://fingerprinting.study/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T19:03:54.000Z"
+  },
+  {
+    "text": "PSI turns AI-driven scientific discovery into a business",
+    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T19:03:52.000Z"
+  },
+  {
+    "text": "OpenAI adds business profiles to ChatGPT, edging closer to Google-style discovery",
+    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T18:49:52.000Z"
+  },
+  {
+    "text": "Google's $30 Pixel Tag takes on Apple's AirTag, now available for Android",
+    "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T18:49:19.000Z"
+  },
+  {
+    "text": "Starlink Mini 2: smaller dish, bigger ambitions for satellite internet",
+    "url": "https://starlink.com/mini-2",
+    "category": "tech",
+    "publishedAt": "2026-11-10T18:22:32.000Z"
+  },
+  {
+    "text": "Linux DisplayLink driver work halted by Synaptics patent claims",
+    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T18:02:02.000Z"
+  },
+  {
+    "text": "Get your coding agent off 2019 JavaScript and onto modern web primitives.",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-10T18:01:15.000Z"
+  },
+  {
+    "text": "Claude adds Whiteboards, Sheets, and Data to its growing toolkit",
+    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "category": "ai",
+    "publishedAt": "2026-11-10T17:55:07.000Z"
+  },
+  {
+    "text": "Claude Nine: maybe not just a sci-fi fantasy anymore",
+    "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+    "category": "ai",
+    "publishedAt": "2026-11-10T17:44:44.000Z"
+  },
+  {
+    "text": "Val Town is winding down, the end of an era for the serverless scripting platform.",
+    "url": "https://blog.val.town/winding-down",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-10T17:31:14.000Z"
+  },
+  {
+    "text": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks.",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T17:30:00.000Z"
+  },
+  {
+    "text": "Nvidia CEO Jensen Huang linked to alleged Chinese spy: timeline of the affair",
+    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T17:04:19.000Z"
+  },
+  {
+    "text": "AMD's Zen 6 family aims to feed the beast with next-gen performance",
+    "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+    "category": "tech",
+    "publishedAt": "2026-11-10T17:02:32.000Z"
+  },
+  {
+    "text": "Sundrop makes baby photo recaps and time lapses, no AI required",
+    "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T16:50:38.000Z"
+  },
+  {
+    "text": ".name domains grandfathered in amid TLD shakeup",
+    "url": "https://neil.fraser.name/news/2026/11/10/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-10T16:37:44.000Z"
+  },
+  {
+    "text": "Tailscale's DNS IPv6 address literally spells out Tailscale",
+    "url": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-10T16:34:45.000Z"
+  },
+  {
+    "text": "Blender 5.3 ships with Gaussian Splat support for real-time 3D scene rendering",
+    "url": "https://www.blender.org/download/releases/5-3/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-10T16:15:43.000Z"
+  },
+  {
+    "text": "Gemini 4 Carbon launches on Hacker News",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T16:07:15.000Z"
+  },
+  {
+    "text": "Apple TV adds built-in sign language interpretation for accessibility",
+    "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T16:00:00.000Z"
+  },
+  {
+    "text": "Palantir hires ex-Democratic senator amid new Congress scrutiny",
+    "url": "https://text.npr.org/nx-s1-6029641",
+    "category": "tech",
+    "publishedAt": "2026-11-10T15:59:34.000Z"
+  },
+  {
+    "text": "Google expands AI hardware lineup with two new specialized chips",
+    "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T15:54:08.000Z"
+  },
+  {
+    "text": "N-able pulls remote access service offline after researcher drops dozens of zero-days",
+    "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T15:45:27.000Z"
+  },
+  {
+    "text": "Meta's AI agent Muse lands on Apple Watch and Android Wear OS",
+    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T15:29:30.000Z"
+  },
+  {
+    "text": "Smart home devices should work without the internet, not brick when the cloud goes down",
+    "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T15:25:20.000Z"
+  },
+  {
+    "text": "Show HN: Valencia, Spain recreated in Sim City-style isometric view",
+    "url": "https://tinyvalencia.com/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-10T15:12:16.000Z"
+  },
+  {
+    "text": "The Hardest Tarball?",
+    "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+    "category": "tech",
+    "publishedAt": "2026-11-10T15:00:39.000Z"
+  },
+  {
+    "text": "New WhatsApp chief plans simpler app, beefier AI features",
+    "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T15:00:00.000Z"
+  },
+  {
+    "text": "Reddit turns user conversations into AI-powered product reviews",
+    "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T15:00:00.000Z"
+  },
+  {
+    "text": "Adobe adds AI agents and fresh creative tools across Photoshop, Premiere, and Firefly",
+    "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T14:05:10.000Z"
+  },
+  {
+    "text": "Anthropic IPO priced $70–$78 a share, targeting a $1.404 trillion valuation.",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+    "category": "stocks",
+    "publishedAt": "2026-11-10T14:01:39.000Z"
+  },
+  {
+    "text": "Spotify's AI DJ now has new voices, personalities, and a less-chatty mode",
+    "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T14:00:00.000Z"
+  },
+  {
+    "text": "Aura's new e-ink photo frame beats its last on both quality and price",
+    "url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T14:00:00.000Z"
+  },
+  {
+    "text": "Cyanogen co-founder now targets Windows in the AI era",
+    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T14:00:00.000Z"
+  },
+  {
+    "text": "Ring expands beyond doorbells with a home security drone and enterprise robot",
+    "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T13:30:00.000Z"
+  },
+  {
+    "text": "Hacker News says: skip AR glasses, your wallet and face will thank you",
+    "url": "https://blog.yaros.ae/dont-buy-ar-glasses/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T13:10:25.000Z"
+  },
+  {
+    "text": "Hugging Face warns cyberattacks could make open-source AI a little less open",
+    "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T13:00:00.000Z"
+  },
+  {
+    "text": "Ableton Live 13 is out, and music producers are already debating the upgrades",
+    "url": "https://www.ableton.com/en/live/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T12:58:04.000Z"
+  },
+  {
+    "text": ".NET 11 runtime preview brings faster JIT, better AOT, and new GC tweaks",
+    "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-10T12:20:07.000Z"
+  },
+  {
+    "text": "DeepMind's AlphaProof writes code that proves math theorems, blurring AI and formal verification.",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T12:11:12.000Z"
+  },
+  {
+    "text": "15 MB self-hosted Netflix and Spotify alternative for your media server",
+    "url": "https://github.com/HolyArrs/HolyArrs",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-10T11:51:19.000Z"
+  },
+  {
+    "text": "Constant surveillance shapes childhood: how watching kids affects parents and development",
+    "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T10:47:18.000Z"
+  },
+  {
+    "text": "AI-generated code is fast to write and fragile to keep—tech debt with a silicon sheen.",
+    "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T10:25:58.000Z"
+  },
+  {
+    "text": "Queens Public Library hit by ransomware, e-borrowing suspended",
+    "url": "https://connect.queenslibrary.org/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T09:04:39.000Z"
+  },
+  {
+    "text": "Fossil CO2 emissions slip 0.4% in 2026, a rare dip in the long climb",
+    "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T08:59:41.000Z"
+  },
+  {
+    "text": "Fireworks AI breach spills over, hitting Notion and its customers",
+    "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+    "category": "ai",
+    "publishedAt": "2026-11-10T07:19:38.000Z"
+  },
+  {
+    "text": "Otter AI now follows conversations across 30+ languages",
+    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T07:00:00.000Z"
+  },
+  {
+    "text": "Amazon saves millions swapping Sonnet 4.6 for its own Strands Decider",
+    "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T06:01:08.000Z"
+  },
+  {
+    "text": "Your TV can see through walls now—Wi-Fi sensing turns screens into spyglasses.",
+    "url": "https://maurycyz.com/projects/fading/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T05:24:45.000Z"
+  },
+  {
+    "text": "California's billionaire tax proposal fails to pass",
+    "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T05:18:43.000Z"
+  },
+  {
+    "text": "Jensen Huang's alleged honeypot scandal sparks top-tier memes across the internet",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T04:34:15.000Z"
+  },
+  {
+    "text": "Ultorg wants to be the friendly face of relational databases",
+    "url": "https://www.ultorg.com/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-10T03:59:39.000Z"
+  },
+  {
+    "text": "CoreWeave bond yields top 16% as AI credit stress builds",
+    "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "category": "stocks",
+    "publishedAt": "2026-11-10T03:20:06.000Z"
+  },
+  {
+    "text": "CPython's semantics get a formal spec—finally, a blueprint for Python's behavior",
+    "url": "https://broyojo.com/python-formalization/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-10T01:56:48.000Z"
+  },
+  {
+    "text": "Anthropic reportedly moving forward with IPO plans",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "category": "ai",
+    "publishedAt": "2026-11-10T01:27:12.000Z"
+  },
+  {
+    "text": "Mysterious beep traced to its source—debugging the unseen",
+    "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-10T00:10:46.000Z"
+  },
+  {
+    "text": "Horrible public key tricks: security researchers share worst crypto implementation fails",
+    "url": "https://maurycyz.com/projects/badcert/",
+    "category": "tech",
+    "publishedAt": "2026-11-10T00:07:17.000Z"
+  },
+  {
+    "text": "Nvidia CEO Jensen Huang reportedly hired a PR firm known for handling high-profile sex scandals a year ago.",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+    "category": "tech",
+    "publishedAt": "2026-11-09T23:28:37.000Z"
+  },
+  {
+    "text": "Fable 5.2 one-shotted a dream game, and now nobody knows whether to cheer or panic.",
+    "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+    "category": "ai",
+    "publishedAt": "2026-11-09T23:08:13.000Z"
+  },
+  {
+    "text": "Wyndham exposed customer data after an app security lapse",
+    "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+    "category": "tech",
+    "publishedAt": "2026-11-09T23:03:46.000Z"
+  },
+  {
+    "text": "Exact: a new cross-platform UI framework making waves on Hacker News",
+    "url": "https://github.com/expo/exact",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-09T22:59:13.000Z"
+  },
+  {
+    "text": "Short seller flagged Nvidia CEO's suspected spy ties six months before scandal broke",
+    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+    "category": "stocks",
+    "publishedAt": "2026-11-09T22:46:09.000Z"
+  },
+  {
+    "text": "Nvidia faces a growing wave of lawsuits as the AI chip race heats up",
+    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "category": "tech",
+    "publishedAt": "2026-11-09T22:23:42.000Z"
+  },
+  {
+    "text": "100% AI code mandate, year one: nobody understands the codebase",
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-09T22:19:12.000Z"
+  },
+  {
+    "text": "TPUs: Google's custom chips quietly powering the AI compute race",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+    "category": "tech",
+    "publishedAt": "2026-11-09T21:56:57.000Z"
+  },
+  {
+    "text": "Fervo's geothermal tech lands $12B in orders",
+    "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+    "category": "tech",
+    "publishedAt": "2026-11-09T20:55:34.000Z"
+  },
+  {
+    "text": "Jensen Huang cancels ElevenLabs Summit appearance as Nvidia controversy grows",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "category": "ai",
+    "publishedAt": "2026-11-09T20:09:06.000Z"
+  },
+  {
+    "text": "Claude Fable 5.2 hits 65 on Artificial Analysis, the highest score yet",
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "category": "ai",
+    "publishedAt": "2026-11-09T20:04:55.000Z"
+  },
+  {
+    "text": "USPS releases official ZIP Code boundary polygons, making location data more precise",
+    "url": "https://postalpro.usps.com/zcb",
+    "category": "tech",
+    "publishedAt": "2026-11-09T19:58:59.000Z"
+  },
+  {
+    "text": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+    "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+    "category": "tech",
+    "publishedAt": "2026-11-09T19:39:41.000Z"
+  },
+  {
+    "text": "CUI brings native UI components to C, bridging low-level code and modern interfaces",
+    "url": "https://yappologistic.github.io/CUI/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-09T19:35:16.000Z"
+  },
+  {
+    "text": "Anthropic launches Mythos and Fable models amid RSI concerns",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "category": "ai",
+    "publishedAt": "2026-11-09T19:24:51.000Z"
+  },
+  {
+    "text": "AI hardware startup Nominal triples valuation to $3B in just 8 months",
+    "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+    "category": "ai",
+    "publishedAt": "2026-11-09T19:21:46.000Z"
+  },
+  {
+    "text": "France: Iran behind mass hacks targeting grocery freezers and blood bank coolers",
+    "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+    "category": "tech",
+    "publishedAt": "2026-11-09T19:19:24.000Z"
+  },
+  {
+    "text": "Claude Fable 5.2 and Mythos 5.2 drop on Hacker News",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "category": "ai",
+    "publishedAt": "2026-11-09T18:56:29.000Z"
+  },
+  {
+    "text": "E-means claims 10x faster k-means clustering at equal loss",
+    "url": "https://e-means.github.io/",
+    "category": "dev-tip",
+    "publishedAt": "2026-11-09T18:45:43.000Z"
+  }
+]
